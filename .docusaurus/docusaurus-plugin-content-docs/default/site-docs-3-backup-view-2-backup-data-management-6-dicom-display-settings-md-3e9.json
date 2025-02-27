@@ -1,0 +1,25 @@
+{
+  "id": "Backup & View/Backup Data Management/DICOM Display Settings",
+  "title": "DICOM Display Settings",
+  "description": "영상 정보 표시/숨김 설정",
+  "source": "@site/docs/3_Backup & View/2_Backup Data Management/6_DICOM Display Settings.md",
+  "sourceDirName": "3_Backup & View/2_Backup Data Management",
+  "slug": "/Backup & View/Backup Data Management/DICOM Display Settings",
+  "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/DICOM Display Settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/2_Backup Data Management/6_DICOM Display Settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete DICOM",
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/Delete DICOM"
+  },
+  "next": {
+    "title": "Search DICOM",
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/Search DICOM"
+  }
+}

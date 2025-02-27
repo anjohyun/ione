@@ -1,0 +1,25 @@
+{
+  "id": "Backup & View/Backup Data Management/Upload DICOM",
+  "title": "Upload DICOM",
+  "description": "",
+  "source": "@site/docs/3_Backup & View/2_Backup Data Management/3_Upload DICOM.md",
+  "sourceDirName": "3_Backup & View/2_Backup Data Management",
+  "slug": "/Backup & View/Backup Data Management/Upload DICOM",
+  "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/Upload DICOM",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/2_Backup Data Management/3_Upload DICOM.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "View DICOM",
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/View DICOM"
+  },
+  "next": {
+    "title": "Download DICOM",
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Data Management/Download DICOM"
+  }
+}

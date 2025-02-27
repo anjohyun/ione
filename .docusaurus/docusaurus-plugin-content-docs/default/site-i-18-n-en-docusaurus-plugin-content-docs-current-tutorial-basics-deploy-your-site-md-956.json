@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tutorial-basics/deploy-your-site.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/deploy-your-site",
-  "permalink": "/ionedocs-site/docs/tutorial-basics/deploy-your-site",
+  "permalink": "/ionedocs/docs/tutorial-basics/deploy-your-site",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "DICOM Viewer: I-Rapha View™",
-    "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/ionedocs/docs/tutorial-basics/create-a-blog-post"
   },
   "next": {
     "title": "index",
-    "permalink": "/ionedocs-site/docs/Raphaview/"
+    "permalink": "/ionedocs/docs/Raphaview/"
   }
 }

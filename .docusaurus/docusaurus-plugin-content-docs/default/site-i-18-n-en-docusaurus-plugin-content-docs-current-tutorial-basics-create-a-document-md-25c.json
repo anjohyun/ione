@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-document",
-  "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-document",
+  "permalink": "/ionedocs/docs/tutorial-basics/create-a-document",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BEST Image",
-    "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-page"
+    "permalink": "/ionedocs/docs/tutorial-basics/create-a-page"
   },
   "next": {
     "title": "DICOM Viewer: I-Rapha View™",
-    "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-blog-post"
+    "permalink": "/ionedocs/docs/tutorial-basics/create-a-blog-post"
   }
 }

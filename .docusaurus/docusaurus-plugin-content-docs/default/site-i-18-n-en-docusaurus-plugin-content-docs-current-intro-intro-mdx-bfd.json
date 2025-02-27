@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/intro/intro.mdx",
   "sourceDirName": "intro",
   "slug": "/intro/",
-  "permalink": "/ionedocs-site/docs/intro/",
+  "permalink": "/ionedocs/docs/intro/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro/intro.mdx",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "FAQ & Troubleshooting",
-    "permalink": "/ionedocs-site/docs/FAQ/intro"
+    "permalink": "/ionedocs/docs/FAQ/intro"
   },
   "next": {
     "title": "index",
-    "permalink": "/ionedocs-site/docs/test_image/"
+    "permalink": "/ionedocs/docs/test_image/"
   }
 }

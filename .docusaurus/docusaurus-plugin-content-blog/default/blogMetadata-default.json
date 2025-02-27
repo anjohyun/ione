@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/ionedocs-site/blog",
+  "blogBasePath": "/ionedocs/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/ionedocs-site/blog/authors"
+  "authorsListPath": "/ionedocs/blog/authors"
 }

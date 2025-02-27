@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/4_ImageWorklist/index.md",
   "sourceDirName": "4_ImageWorklist",
   "slug": "/ImageWorklist/",
-  "permalink": "/ionedocs-site/docs/ImageWorklist/",
+  "permalink": "/ionedocs/docs/ImageWorklist/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4_ImageWorklist/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Attachments",
-    "permalink": "/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments"
+    "permalink": "/ionedocs/docs/Backup & View/Backup Data Management/Manage Attachments"
   },
   "next": {
     "title": "Admin Settings",
-    "permalink": "/ionedocs-site/docs/Admin Settings/"
+    "permalink": "/ionedocs/docs/Admin Settings/"
   }
 }

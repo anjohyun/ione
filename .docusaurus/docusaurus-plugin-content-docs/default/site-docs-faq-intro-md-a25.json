@@ -1,0 +1,24 @@
+{
+  "id": "FAQ/intro",
+  "title": "FAQ & Troubleshooting",
+  "description": "",
+  "source": "@site/docs/FAQ/intro.md",
+  "sourceDirName": "FAQ",
+  "slug": "/FAQ/intro",
+  "permalink": "/ionedocs-site/ja/docs/FAQ/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/FAQ/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admin Settings",
+    "permalink": "/ionedocs-site/ja/docs/Admin Settings/"
+  },
+  "next": {
+    "title": "Video Tutorial",
+    "permalink": "/ionedocs-site/ja/docs/intro/"
+  }
+}
