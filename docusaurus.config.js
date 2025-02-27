@@ -151,7 +151,7 @@ const config = {
 export default {
   // ...
   title: 'ionedocs',
-  url: 'ionedocs.com', // Your website URL
+  url: '"https://ionedocs.com', // Your website URL
   baseUrl: '/',
   projectName: 'ione',
   organizationName: 'irm',
