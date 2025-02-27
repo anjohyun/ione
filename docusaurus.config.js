@@ -148,4 +148,12 @@ const config = {
 
 
 
-export default config;
+export default {
+  // ...
+  url: 'https://anjohyun.github.io/ione/', // Your website URL
+  baseUrl: '/',
+  projectName: 'anjohyun.github.io/ione/',
+  organizationName: 'irm',
+  trailingSlash: false,
+  // ...
+};

@@ -8,7 +8,7 @@ export default {
   "tagline": "DICOM Web Platform",
   "favicon": "img/favicon.svg",
   "url": "https://ionedocs.com",
-  "baseUrl": "/ionedocs-site/ja/",
+  "baseUrl": "/ionedocs-site/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",

@@ -1,138 +1,138 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/ionedocs-site/ja/docs",
+      "path": "/ionedocs-site/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/ionedocs-site/ja/docs",
+          "path": "/ionedocs-site/docs",
           "mainDocId": "Overview/index",
           "docs": [
             {
               "id": "Backup & View/Backup Setting/Backup Automation/from_autotrans_devices",
-              "path": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices",
+              "path": "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Backup & View/Backup Setting/Backup Automation/with_IRM_agent",
-              "path": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent",
+              "path": "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Backup & View/Backup Setting/Create Groups",
-              "path": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Create Groups",
+              "path": "/ionedocs-site/docs/Backup & View/Backup Setting/Create Groups",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Backup & View/Backup Setting/Migration",
-              "path": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Migration",
+              "path": "/ionedocs-site/docs/Backup & View/Backup Setting/Migration",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Backup & View/index",
-              "path": "/ionedocs-site/ja/docs/Backup & View/",
+              "path": "/ionedocs-site/docs/Backup & View/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ImageWorklist/index",
-              "path": "/ionedocs-site/ja/docs/ImageWorklist/",
+              "path": "/ionedocs-site/docs/ImageWorklist/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ImageWorklist/index",
-              "path": "/ionedocs-site/ja/docs/ImageWorklist/",
+              "path": "/ionedocs-site/docs/ImageWorklist/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro/intro",
-              "path": "/ionedocs-site/ja/docs/intro/",
+              "path": "/ionedocs-site/docs/intro/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Overview/index",
-              "path": "/ionedocs-site/ja/docs/Overview/",
+              "path": "/ionedocs-site/docs/Overview/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Glossary/DICOMImport",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Glossary/DICOMImport",
+              "path": "/ionedocs-site/docs/Raphaview/Glossary/DICOMImport",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/guidelines",
-              "path": "/ionedocs-site/ja/docs/Raphaview/guidelines",
+              "path": "/ionedocs-site/docs/Raphaview/guidelines",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/index",
-              "path": "/ionedocs-site/ja/docs/Raphaview/",
+              "path": "/ionedocs-site/docs/Raphaview/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/Annotation and Measurement",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/Annotation and Measurement",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/Annotation and Measurement",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/Comparing Studies",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/Comparing Studies",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/Comparing Studies",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/DICOMExport",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/DICOMExport",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/DICOMExport",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/display",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/display",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/display",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/ImageOrientationandManipulation",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/ImageOrientationandManipulation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/index",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/Overall GUI",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/Overall GUI",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/Overall GUI",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Raphaview/Tutorials/Viewers_tools",
-              "path": "/ionedocs-site/ja/docs/Raphaview/Tutorials/Viewers_tools",
+              "path": "/ionedocs-site/docs/Raphaview/Tutorials/Viewers_tools",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/ionedocs-site/ja/docs/tutorial-basics/create-a-blog-post",
+              "path": "/ionedocs-site/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/ionedocs-site/ja/docs/tutorial-basics/create-a-document",
+              "path": "/ionedocs-site/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/ionedocs-site/ja/docs/tutorial-basics/create-a-page",
+              "path": "/ionedocs-site/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/ionedocs-site/ja/docs/tutorial-basics/deploy-your-site",
+              "path": "/ionedocs-site/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/products",
-              "path": "/ionedocs-site/ja/docs/category/products",
+              "path": "/ionedocs-site/docs/category/products",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -140,7 +140,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/ionedocs-site/ja/docs/Overview/",
+                "path": "/ionedocs-site/docs/Overview/",
                 "label": "Overview"
               }
             }
