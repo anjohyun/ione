@@ -1,0 +1,20 @@
+{
+  "id": "test_image/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/test_image/index.mdx",
+  "sourceDirName": "test_image",
+  "slug": "/test_image/",
+  "permalink": "/ionedocs-site/docs/test_image/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/test_image/index.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Video Tutorial",
+    "permalink": "/ionedocs-site/docs/intro/"
+  }
+}

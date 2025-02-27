@@ -1,0 +1,28 @@
+{
+  "id": "Raphaview/Tutorials/DICOMExport",
+  "title": "DICOM Export",
+  "description": "1. Check the box for the study you wish to download.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/5_Tutorials/2_DICOMExport.md",
+  "sourceDirName": "1_Raphaview/5_Tutorials",
+  "slug": "/Raphaview/Tutorials/DICOMExport",
+  "permalink": "/ionedocs-site/docs/Raphaview/Tutorials/DICOMExport",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/5_Tutorials/2_DICOMExport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 49,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display Overview",
+    "permalink": "/ionedocs-site/docs/Raphaview/Tutorials/Overall GUI"
+  },
+  "next": {
+    "title": "Image Orientation and Manipulation",
+    "permalink": "/ionedocs-site/docs/Raphaview/Tutorials/ImageOrientationandManipulation"
+  }
+}

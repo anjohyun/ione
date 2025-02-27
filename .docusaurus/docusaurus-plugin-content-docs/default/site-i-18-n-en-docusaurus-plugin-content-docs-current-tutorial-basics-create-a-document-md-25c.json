@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/create-a-document",
+  "title": "Storage : Backup and View",
+  "description": "Backup and View는 높은 내구성을 보장하는 AWS 클라우드 시스템을 기반으로 하여 데이터를 안정적이고 안전한 공간에 보관합니다.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/tutorial-basics/create-a-document.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/create-a-document",
+  "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BEST Image",
+    "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "DICOM Viewer: I-Rapha View™",
+    "permalink": "/ionedocs-site/docs/tutorial-basics/create-a-blog-post"
+  }
+}

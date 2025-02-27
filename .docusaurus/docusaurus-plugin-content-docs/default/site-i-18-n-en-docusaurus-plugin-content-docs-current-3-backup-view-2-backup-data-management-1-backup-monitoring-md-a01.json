@@ -1,0 +1,25 @@
+{
+  "id": "Backup & View/Backup Data Management/Backup Monitoring",
+  "title": "Backup Monitoring",
+  "description": "",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/3_Backup & View/2_Backup Data Management/1_Backup Monitoring.md",
+  "sourceDirName": "3_Backup & View/2_Backup Data Management",
+  "slug": "/Backup & View/Backup Data Management/Backup Monitoring",
+  "permalink": "/ionedocs-site/docs/Backup & View/Backup Data Management/Backup Monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/2_Backup Data Management/1_Backup Monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Set backup with IRM agent",
+    "permalink": "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent"
+  },
+  "next": {
+    "title": "View DICOM",
+    "permalink": "/ionedocs-site/docs/Backup & View/Backup Data Management/View DICOM"
+  }
+}
