@@ -249,58 +249,22 @@
     },
     "content": "content---ionedocs-site-markdown-pagee-3-d-ecf"
   },
-  "/ionedocs-site/docs-e98": {
+  "/ionedocs-site/docs-d88": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---ionedocs-site-docsaba-3b9"
     }
   },
-  "/ionedocs-site/docs-f04": {
+  "/ionedocs-site/docs-38c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---ionedocs-site-docs-9-ba-9ee"
   },
-  "/ionedocs-site/docs-45f": {
+  "/ionedocs-site/docs-1cd": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/ionedocs-site/docs/Admin Settings/-86b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-admin-settings-00-d-ab6"
   },
   "/ionedocs-site/docs/Backup & View/-7da": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ionedocs-site-docs-backup-view-a-9-b-4e6"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Backup Monitoring-991": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-backup-monitoringa-01-53c"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Delete DICOM-9a0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-delete-dicom-033-f39"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/DICOM Display Settings-958": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-dicom-display-settings-183-9f3"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Download DICOM-6c3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-download-dicom-40-b-0a4"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments-a70": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-manage-attachments-0-bc-4f9"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Search DICOM-c90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-search-dico-meb-6-24b"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/Upload DICOM-4a9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-upload-dico-mfde-928"
-  },
-  "/ionedocs-site/docs/Backup & View/Backup Data Management/View DICOM-eff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-backup-view-backup-data-management-view-dicom-336-d73"
   },
   "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices-5f6": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -321,10 +285,6 @@
   "/ionedocs-site/docs/category/products-ecd": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---ionedocs-site-docs-category-products-78-a-b98"
-  },
-  "/ionedocs-site/docs/FAQ/intro-acd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-faq-introfac-daa"
   },
   "/ionedocs-site/docs/ImageWorklist/-51f": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -385,10 +345,6 @@
   "/ionedocs-site/docs/Raphaview/Tutorials/Viewers_tools-6f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ionedocs-site-docs-raphaview-tutorials-viewers-toolsb-2-b-682"
-  },
-  "/ionedocs-site/docs/test_image/-ee3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ionedocs-site-docs-test-image-c-34-d32"
   },
   "/ionedocs-site/docs/tutorial-basics/create-a-blog-post-be2": {
     "__comp": "__comp---theme-doc-item-178-a40",

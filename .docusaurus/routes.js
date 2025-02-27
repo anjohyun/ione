@@ -114,73 +114,19 @@ export default [
   },
   {
     path: '/ionedocs-site/docs',
-    component: ComponentCreator('/ionedocs-site/docs', 'e98'),
+    component: ComponentCreator('/ionedocs-site/docs', 'd88'),
     routes: [
       {
         path: '/ionedocs-site/docs',
-        component: ComponentCreator('/ionedocs-site/docs', 'f04'),
+        component: ComponentCreator('/ionedocs-site/docs', '38c'),
         routes: [
           {
             path: '/ionedocs-site/docs',
-            component: ComponentCreator('/ionedocs-site/docs', '45f'),
+            component: ComponentCreator('/ionedocs-site/docs', '1cd'),
             routes: [
-              {
-                path: '/ionedocs-site/docs/Admin Settings/',
-                component: ComponentCreator('/ionedocs-site/docs/Admin Settings/', '86b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/ionedocs-site/docs/Backup & View/',
                 component: ComponentCreator('/ionedocs-site/docs/Backup & View/', '7da'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Backup Monitoring',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Backup Monitoring', '991'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Delete DICOM',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Delete DICOM', '9a0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/DICOM Display Settings',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/DICOM Display Settings', '958'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Download DICOM',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Download DICOM', '6c3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments', 'a70'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Search DICOM',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Search DICOM', 'c90'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/Upload DICOM',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/Upload DICOM', '4a9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/Backup & View/Backup Data Management/View DICOM',
-                component: ComponentCreator('/ionedocs-site/docs/Backup & View/Backup Data Management/View DICOM', 'eff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -211,12 +157,6 @@ export default [
               {
                 path: '/ionedocs-site/docs/category/products',
                 component: ComponentCreator('/ionedocs-site/docs/category/products', 'ecd'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/FAQ/intro',
-                component: ComponentCreator('/ionedocs-site/docs/FAQ/intro', 'acd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -307,12 +247,6 @@ export default [
               {
                 path: '/ionedocs-site/docs/Raphaview/Tutorials/Viewers_tools',
                 component: ComponentCreator('/ionedocs-site/docs/Raphaview/Tutorials/Viewers_tools', '6f4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ionedocs-site/docs/test_image/',
-                component: ComponentCreator('/ionedocs-site/docs/test_image/', 'ee3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

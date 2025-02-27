@@ -11,51 +11,6 @@
           "mainDocId": "Overview/index",
           "docs": [
             {
-              "id": "Admin Settings/index",
-              "path": "/ionedocs-site/docs/Admin Settings/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Backup Monitoring",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Backup Monitoring",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Delete DICOM",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Delete DICOM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/DICOM Display Settings",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/DICOM Display Settings",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Download DICOM",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Download DICOM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Manage Attachments",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Search DICOM",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Search DICOM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/Upload DICOM",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/Upload DICOM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Backup & View/Backup Data Management/View DICOM",
-              "path": "/ionedocs-site/docs/Backup & View/Backup Data Management/View DICOM",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Backup & View/Backup Setting/Backup Automation/from_autotrans_devices",
               "path": "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices",
               "sidebar": "tutorialSidebar"
@@ -78,11 +33,6 @@
             {
               "id": "Backup & View/index",
               "path": "/ionedocs-site/docs/Backup & View/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "FAQ/intro",
-              "path": "/ionedocs-site/docs/FAQ/intro",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -158,11 +108,6 @@
             {
               "id": "Raphaview/Tutorials/Viewers_tools",
               "path": "/ionedocs-site/docs/Raphaview/Tutorials/Viewers_tools",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "test_image/index",
-              "path": "/ionedocs-site/docs/test_image/",
               "sidebar": "tutorialSidebar"
             },
             {
