@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/2_guidelines.md",
   "sourceDirName": "1_Raphaview",
   "slug": "/Raphaview/guidelines",
-  "permalink": "/ionedocs/docs/Raphaview/guidelines",
+  "permalink": "/ione/docs/Raphaview/guidelines",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/2_guidelines.md",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "index",
-    "permalink": "/ionedocs/docs/Raphaview/"
+    "permalink": "/ione/docs/Raphaview/"
   },
   "next": {
     "title": "Tutorials",
-    "permalink": "/ionedocs/docs/Raphaview/Tutorials/"
+    "permalink": "/ione/docs/Raphaview/Tutorials/"
   }
 }

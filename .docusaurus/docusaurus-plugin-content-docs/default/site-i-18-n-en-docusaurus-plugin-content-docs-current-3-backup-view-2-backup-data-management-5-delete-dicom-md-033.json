@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/3_Backup & View/2_Backup Data Management/5_Delete DICOM.md",
   "sourceDirName": "3_Backup & View/2_Backup Data Management",
   "slug": "/Backup & View/Backup Data Management/Delete DICOM",
-  "permalink": "/ionedocs/docs/Backup & View/Backup Data Management/Delete DICOM",
+  "permalink": "/ione/docs/Backup & View/Backup Data Management/Delete DICOM",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/2_Backup Data Management/5_Delete DICOM.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Download DICOM",
-    "permalink": "/ionedocs/docs/Backup & View/Backup Data Management/Download DICOM"
+    "permalink": "/ione/docs/Backup & View/Backup Data Management/Download DICOM"
   },
   "next": {
     "title": "DICOM Display Settings",
-    "permalink": "/ionedocs/docs/Backup & View/Backup Data Management/DICOM Display Settings"
+    "permalink": "/ione/docs/Backup & View/Backup Data Management/DICOM Display Settings"
   }
 }

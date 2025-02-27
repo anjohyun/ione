@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/5_Tutorials/1_Overall GUI.md",
   "sourceDirName": "1_Raphaview/5_Tutorials",
   "slug": "/Raphaview/Tutorials/Overall GUI",
-  "permalink": "/ionedocs/docs/Raphaview/Tutorials/Overall GUI",
+  "permalink": "/ione/docs/Raphaview/Tutorials/Overall GUI",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/5_Tutorials/1_Overall GUI.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorials",
-    "permalink": "/ionedocs/docs/Raphaview/Tutorials/"
+    "permalink": "/ione/docs/Raphaview/Tutorials/"
   },
   "next": {
     "title": "DICOM Export",
-    "permalink": "/ionedocs/docs/Raphaview/Tutorials/DICOMExport"
+    "permalink": "/ione/docs/Raphaview/Tutorials/DICOMExport"
   }
 }

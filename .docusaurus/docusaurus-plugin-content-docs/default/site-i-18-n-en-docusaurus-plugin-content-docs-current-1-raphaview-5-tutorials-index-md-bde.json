@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/5_Tutorials/index.md",
   "sourceDirName": "1_Raphaview/5_Tutorials",
   "slug": "/Raphaview/Tutorials/",
-  "permalink": "/ionedocs/docs/Raphaview/Tutorials/",
+  "permalink": "/ione/docs/Raphaview/Tutorials/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/5_Tutorials/index.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/ionedocs/docs/Raphaview/guidelines"
+    "permalink": "/ione/docs/Raphaview/guidelines"
   },
   "next": {
     "title": "Display Overview",
-    "permalink": "/ionedocs/docs/Raphaview/Tutorials/Overall GUI"
+    "permalink": "/ione/docs/Raphaview/Tutorials/Overall GUI"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/5_Admin Settings/index.md",
   "sourceDirName": "5_Admin Settings",
   "slug": "/Admin Settings/",
-  "permalink": "/ionedocs/docs/Admin Settings/",
+  "permalink": "/ione/docs/Admin Settings/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5_Admin Settings/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Image Worklist",
-    "permalink": "/ionedocs/docs/ImageWorklist/"
+    "permalink": "/ione/docs/ImageWorklist/"
   },
   "next": {
     "title": "FAQ & Troubleshooting",
-    "permalink": "/ionedocs/docs/FAQ/intro"
+    "permalink": "/ione/docs/FAQ/intro"
   }
 }

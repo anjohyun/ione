@@ -8,9 +8,9 @@ export default {
   "tagline": "DICOM Web Platform",
   "favicon": "img/favicon.svg",
   "url": "https://ionedocs.com",
-  "baseUrl": "/ionedocs/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "baseUrl": "/ione/",
+  "organizationName": "anjohyun",
+  "projectName": "ione",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

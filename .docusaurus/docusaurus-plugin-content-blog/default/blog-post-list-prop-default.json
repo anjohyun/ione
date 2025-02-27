@@ -3,25 +3,25 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/ionedocs/blog/welcome",
+      "permalink": "/ione/blog/welcome",
       "unlisted": false,
       "date": "2021-08-26T00:00:00.000Z"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/ionedocs/blog/mdx-blog-post",
+      "permalink": "/ione/blog/mdx-blog-post",
       "unlisted": false,
       "date": "2021-08-01T00:00:00.000Z"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/ionedocs/blog/long-blog-post",
+      "permalink": "/ione/blog/long-blog-post",
       "unlisted": false,
       "date": "2019-05-29T00:00:00.000Z"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/ionedocs/blog/first-blog-post",
+      "permalink": "/ione/blog/first-blog-post",
       "unlisted": false,
       "date": "2019-05-28T00:00:00.000Z"
     }
