@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: ione_IRM
+    name: ionedocs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
