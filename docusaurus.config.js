@@ -151,7 +151,7 @@ const config = {
 export default {
   // ...
   title: 'ionedocs',
-  url: '"https://ionedocs.com', // Your website URL
+  url: 'https://anjohyun.github.io/ione/', // Your website URL
   baseUrl: '/',
   projectName: 'ione',
   organizationName: 'irm',
