@@ -8,9 +8,9 @@ export default {
   "url": "https://anjohyun.github.io",
   "baseUrl": "/ione/",
   "projectName": "ione",
-  "organizationName": "johyun_ione",
+  "organizationName": "johyun",
   "trailingSlash": false,
-  "deploymentBranch": "master",
+  "deploymentBranch": "main",
   "baseUrlIssueBanner": true,
   "i18n": {
     "defaultLocale": "en",

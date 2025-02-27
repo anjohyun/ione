@@ -154,9 +154,9 @@ export default {
   url: 'https://anjohyun.github.io/', // Your website URL
   baseUrl: '/ione/',
   projectName: 'ione',
-  organizationName: 'johyun_ione',
+  organizationName: 'johyun',
   trailingSlash: false,
-  deploymentBranch: 'master',
+  deploymentBranch: 'main',
   // ...
 };
 
