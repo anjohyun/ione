@@ -150,9 +150,9 @@ const config = {
 
 export default {
   // ...
-  url: 'https://anjohyun.github.io/ione/', // Your website URL
+  url: 'https://anjohyun.github.io/', // Your website URL
   baseUrl: '/',
-  projectName: 'anjohyun.github.io/ione/',
+  projectName: 'anjohyun.github.io/',
   organizationName: 'irm',
   trailingSlash: false,
   // ...
