@@ -30,4 +30,4 @@ I-Rapha View™의 화면은 메뉴바, 토글버튼, 시리즈썸네일창, 영
 ---------
 
 
-I-one DICOM Viewer [Tutorial](./5_Tutorials/index.md) 를 방문하시면 자주 묻는 질문이나 문제에 대한 답변을 확인하실 수 있습니다.
+I-one DICOM Viewer [Tutorial](./5_Tutorials/index.md) 또는 [FAQ](../FAQ/intro.md)를 방문하시면 자주 묻는 질문이나 문제에 대한 답변을 확인하실 수 있습니다.

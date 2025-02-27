@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "2. Set backup with IRM agent",
-    "permalink": "/ionedocs-site/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent"
+    "title": "Manage Attachments",
+    "permalink": "/ionedocs-site/docs/Backup & View/Backup Data Management/Manage Attachments"
   },
   "next": {
-    "title": "Video Tutorial",
-    "permalink": "/ionedocs-site/docs/intro/"
+    "title": "Admin Settings",
+    "permalink": "/ionedocs-site/docs/Admin Settings/"
   }
 }

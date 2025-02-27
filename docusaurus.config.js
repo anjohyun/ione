@@ -13,10 +13,10 @@ const config = {
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
-  url: 'https://anjoanne.github.io',
+  url: 'https://ionedocs.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/ionedocs',
+  baseUrl: '/ionedocs-site/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -148,16 +148,4 @@ const config = {
 
 
 
-export default {
-  // ...
-  title: 'ionedocs',
-  url: 'https://anjohyun.github.io/', // Your website URL
-  baseUrl: '/ione/',
-  projectName: 'ione',
-  organizationName: 'johyun',
-  trailingSlash: false,
-  deploymentBranch: 'main',
-  // ...
-};
-
-
+export default config;
