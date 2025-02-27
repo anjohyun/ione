@@ -1,0 +1,28 @@
+{
+  "id": "Raphaview/Glossary/DICOMImport",
+  "title": "DICOM Import",
+  "description": "I-one Raphaview는 다양한 방법과 소스에서 DICOM 파일을 열 수 있습니다: 드래그 앤 드롭, 로컬 장치, DICOM ZIP, DICOM CD/DVD, DICOM 쿼리/검색, 로컬 또는 원격 명령을 통한 파일 열기.",
+  "source": "@site/docs/1_Raphaview/Glossary/1_DICOMImport.md",
+  "sourceDirName": "1_Raphaview/Glossary",
+  "slug": "/Raphaview/Glossary/DICOMImport",
+  "permalink": "/ionedocs-site/ko/docs/Raphaview/Glossary/DICOMImport",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/Glossary/1_DICOMImport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 50,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Comparing Studies",
+    "permalink": "/ionedocs-site/ko/docs/Raphaview/Tutorials/Comparing Studies"
+  },
+  "next": {
+    "title": "Backup & View",
+    "permalink": "/ionedocs-site/ko/docs/Backup & View/"
+  }
+}

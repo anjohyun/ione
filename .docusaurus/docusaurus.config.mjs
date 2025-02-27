@@ -8,7 +8,7 @@ export default {
   "tagline": "DICOM Web Platform",
   "favicon": "img/favicon.svg",
   "url": "https://ionedocs.com",
-  "baseUrl": "/ionedocs-site/",
+  "baseUrl": "/ionedocs-site/ko/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -116,7 +116,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024 IRM, Inc."
+      "copyright": "Copyright © 2025 IRM, Inc."
     },
     "prism": {
       "theme": {

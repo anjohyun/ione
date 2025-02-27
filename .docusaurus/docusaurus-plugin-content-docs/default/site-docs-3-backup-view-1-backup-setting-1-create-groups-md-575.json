@@ -1,0 +1,25 @@
+{
+  "id": "Backup & View/Backup Setting/Create Groups",
+  "title": "Create Groups",
+  "description": "의료영상 및 관련 데이터를 백업하고 관리하려면 먼저 그룹을 생성해야 합니다.",
+  "source": "@site/docs/3_Backup & View/1_Backup Setting/1_Create Groups.md",
+  "sourceDirName": "3_Backup & View/1_Backup Setting",
+  "slug": "/Backup & View/Backup Setting/Create Groups",
+  "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Create Groups",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/1_Backup Setting/1_Create Groups.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Backup & View",
+    "permalink": "/ionedocs-site/ko/docs/Backup & View/"
+  },
+  "next": {
+    "title": "Migration",
+    "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Migration"
+  }
+}

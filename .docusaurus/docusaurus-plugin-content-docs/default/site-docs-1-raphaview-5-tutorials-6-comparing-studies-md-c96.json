@@ -1,0 +1,28 @@
+{
+  "id": "Raphaview/Tutorials/Comparing Studies",
+  "title": "Comparing Studies",
+  "description": "현재 뷰어에 로딩되어 있는 스터디의 정보를 보여주며, 현재 뷰어에 로딩되어 있는 스터디마다 하나의 스터디탭이 생성됩니다.",
+  "source": "@site/docs/1_Raphaview/5_Tutorials/6_Comparing Studies.md",
+  "sourceDirName": "1_Raphaview/5_Tutorials",
+  "slug": "/Raphaview/Tutorials/Comparing Studies",
+  "permalink": "/ionedocs-site/ko/docs/Raphaview/Tutorials/Comparing Studies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/5_Tutorials/6_Comparing Studies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "order": 45,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Layout and Display Settings",
+    "permalink": "/ionedocs-site/ko/docs/Raphaview/Tutorials/display"
+  },
+  "next": {
+    "title": "DICOM Import",
+    "permalink": "/ionedocs-site/ko/docs/Raphaview/Glossary/DICOMImport"
+  }
+}

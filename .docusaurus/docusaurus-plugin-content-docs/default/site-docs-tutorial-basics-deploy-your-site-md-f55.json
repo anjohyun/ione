@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/deploy-your-site",
+  "title": "Patient Management: Teresa",
+  "description": "w-Teresa(https://teresa.irm.kr)는 환자의 의료 정보를 관리하고 원격 영상 진단 기능을 지원하는 웹 기반 서비스입니다. 이를 통해 환자 정보, 임상 문서, 의료 영상 데이터를 쉽고 안전하게 관리할 수 있습니다.",
+  "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/deploy-your-site",
+  "permalink": "/ionedocs-site/ko/docs/tutorial-basics/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DICOM Viewer: I-Rapha View™",
+    "permalink": "/ionedocs-site/ko/docs/tutorial-basics/create-a-blog-post"
+  },
+  "next": {
+    "title": "I-Rapha View™",
+    "permalink": "/ionedocs-site/ko/docs/Raphaview/"
+  }
+}
