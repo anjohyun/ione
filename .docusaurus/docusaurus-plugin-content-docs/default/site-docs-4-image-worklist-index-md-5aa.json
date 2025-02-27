@@ -5,7 +5,7 @@
   "source": "@site/docs/4_ImageWorklist/index.md",
   "sourceDirName": "4_ImageWorklist",
   "slug": "/ImageWorklist/",
-  "permalink": "/ionedocs-site/ko/docs/ImageWorklist/",
+  "permalink": "/ionedocs-site/ja/docs/ImageWorklist/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/4_ImageWorklist/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2. Set backup with IRM agent",
-    "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent"
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent"
   },
   "next": {
     "title": "Video Tutorial",
-    "permalink": "/ionedocs-site/ko/docs/intro/"
+    "permalink": "/ionedocs-site/ja/docs/intro/"
   }
 }

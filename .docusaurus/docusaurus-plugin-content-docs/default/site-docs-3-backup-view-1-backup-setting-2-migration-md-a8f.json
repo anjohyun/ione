@@ -5,7 +5,7 @@
   "source": "@site/docs/3_Backup & View/1_Backup Setting/2_Migration.md",
   "sourceDirName": "3_Backup & View/1_Backup Setting",
   "slug": "/Backup & View/Backup Setting/Migration",
-  "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Migration",
+  "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Migration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/1_Backup Setting/2_Migration.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create Groups",
-    "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Create Groups"
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Create Groups"
   },
   "next": {
     "title": "1. Set backup from automatic transmission devices",
-    "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices"
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices"
   }
 }

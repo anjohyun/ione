@@ -53,15 +53,18 @@
       1869,
       8209
     ],
+    "0821ddd1": [
+      6297
+    ],
+    "0aeb1ad9": [
+      4792
+    ],
     "14eb3368": [
       1869,
       6969
     ],
     "1781d461": [
       3361
-    ],
-    "1d30008c": [
-      9786
     ],
     "1d4972f9": [
       7473
@@ -73,6 +76,9 @@
       1869,
       5864,
       6061
+    ],
+    "250f7d9e": [
+      6437
     ],
     "2e9e0e70": [
       2514
@@ -89,14 +95,14 @@
     "393be207": [
       4134
     ],
-    "4b508dc7": [
-      5132
-    ],
-    "4c37b9b3": [
-      704
+    "4a5fbf22": [
+      6067
     ],
     "4f42b96a": [
       9331
+    ],
+    "52aa4e7e": [
+      3229
     ],
     "533a09ca": [
       3098
@@ -110,17 +116,8 @@
     "5c868d36": [
       1974
     ],
-    "5c918f2d": [
-      8297
-    ],
     "5e95c892": [
       9647
-    ],
-    "60a766eb": [
-      8720
-    ],
-    "613e07a9": [
-      9401
     ],
     "621db11d": [
       1869,
@@ -132,9 +129,6 @@
       4575,
       5864,
       4813
-    ],
-    "69cd7c98": [
-      1224
     ],
     "6f7df4b4": [
       9494
@@ -159,9 +153,6 @@
     ],
     "8717b14a": [
       3694
-    ],
-    "8c376e99": [
-      2539
     ],
     "8d721a85": [
       4815
@@ -197,17 +188,20 @@
       1869,
       9048
     ],
+    "a96ea43c": [
+      7807
+    ],
     "aba21aa0": [
       5742
     ],
     "acecf23e": [
       1903
     ],
-    "afa087fb": [
-      6378
+    "b4865cf8": [
+      4685
     ],
-    "b90d046d": [
-      9010
+    "b51a242e": [
+      195
     ],
     "c4f5d8e4": [
       1869,
@@ -225,11 +219,17 @@
     "d349d4cb": [
       8806
     ],
+    "d6539204": [
+      9548
+    ],
     "d654422f": [
       7668
     ],
     "d9f32620": [
       5557
+    ],
+    "db551a3d": [
+      2776
     ],
     "e0bc610d": [
       9262
@@ -237,15 +237,12 @@
     "e273c56f": [
       9328
     ],
-    "e880c753": [
-      7054
-    ],
     "ebe313fa": [
       4132,
       4237
     ],
-    "f4d7572c": [
-      5455
+    "f1b762a5": [
+      1575
     ],
     "f4f34a3a": [
       3637
@@ -255,6 +252,9 @@
     ],
     "f587860b": [
       6967
+    ],
+    "fb58cc13": [
+      2594
     ],
     "reactPlayerYouTube": [
       8446
@@ -318,21 +318,21 @@
     ]
   },
   "assets": {
-    "385": {
+    "195": {
       "js": [
         {
-          "file": "assets/js/5aa2253c.078c20e5.js",
-          "hash": "1f1988f2ca6e6cc2",
-          "publicPath": "/ionedocs-site/ko/assets/js/5aa2253c.078c20e5.js"
+          "file": "assets/js/b51a242e.404d57c5.js",
+          "hash": "52456896d20b92cf",
+          "publicPath": "/ionedocs-site/ja/assets/js/b51a242e.404d57c5.js"
         }
       ]
     },
-    "704": {
+    "385": {
       "js": [
         {
-          "file": "assets/js/4c37b9b3.6217a400.js",
-          "hash": "6e1c3e40867dcb7e",
-          "publicPath": "/ionedocs-site/ko/assets/js/4c37b9b3.6217a400.js"
+          "file": "assets/js/5aa2253c.1576aacb.js",
+          "hash": "4a7e23d8af2d9c86",
+          "publicPath": "/ionedocs-site/ja/assets/js/5aa2253c.1576aacb.js"
         }
       ]
     },
@@ -341,16 +341,7 @@
         {
           "file": "assets/js/33fc5bb8.8691f1ad.js",
           "hash": "ae3dd1a4f8b74b1c",
-          "publicPath": "/ionedocs-site/ko/assets/js/33fc5bb8.8691f1ad.js"
-        }
-      ]
-    },
-    "1224": {
-      "js": [
-        {
-          "file": "assets/js/69cd7c98.9e58f2bf.js",
-          "hash": "0ffdd929a0a025af",
-          "publicPath": "/ionedocs-site/ko/assets/js/69cd7c98.9e58f2bf.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/33fc5bb8.8691f1ad.js"
         }
       ]
     },
@@ -359,7 +350,16 @@
         {
           "file": "assets/js/a7456010.2f05987d.js",
           "hash": "39470a553ed23c24",
-          "publicPath": "/ionedocs-site/ko/assets/js/a7456010.2f05987d.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/a7456010.2f05987d.js"
+        }
+      ]
+    },
+    "1575": {
+      "js": [
+        {
+          "file": "assets/js/f1b762a5.49007fd7.js",
+          "hash": "08dac73d8a684b23",
+          "publicPath": "/ionedocs-site/ja/assets/js/f1b762a5.49007fd7.js"
         }
       ]
     },
@@ -368,43 +368,43 @@
         {
           "file": "assets/css/styles.a3135ce2.css",
           "hash": "23292b335d9e02f6",
-          "publicPath": "/ionedocs-site/ko/assets/css/styles.a3135ce2.css"
+          "publicPath": "/ionedocs-site/ja/assets/css/styles.a3135ce2.css"
         }
       ]
     },
     "1903": {
       "js": [
         {
-          "file": "assets/js/acecf23e.824bf6af.js",
-          "hash": "86c31567b54f591d",
-          "publicPath": "/ionedocs-site/ko/assets/js/acecf23e.824bf6af.js"
+          "file": "assets/js/acecf23e.30f95de4.js",
+          "hash": "55f137f8ed8c0725",
+          "publicPath": "/ionedocs-site/ja/assets/js/acecf23e.30f95de4.js"
         }
       ]
     },
     "1953": {
       "js": [
         {
-          "file": "assets/js/1e4232ab.37382d3d.js",
-          "hash": "dcf86f35dd74493f",
-          "publicPath": "/ionedocs-site/ko/assets/js/1e4232ab.37382d3d.js"
+          "file": "assets/js/1e4232ab.e75d4121.js",
+          "hash": "ccf95df33bde0489",
+          "publicPath": "/ionedocs-site/ja/assets/js/1e4232ab.e75d4121.js"
         }
       ]
     },
     "1972": {
       "js": [
         {
-          "file": "assets/js/73664a40.c4c30795.js",
-          "hash": "3881f4e41098c98e",
-          "publicPath": "/ionedocs-site/ko/assets/js/73664a40.c4c30795.js"
+          "file": "assets/js/73664a40.2a8614cb.js",
+          "hash": "4583b184ec8ce209",
+          "publicPath": "/ionedocs-site/ja/assets/js/73664a40.2a8614cb.js"
         }
       ]
     },
     "1974": {
       "js": [
         {
-          "file": "assets/js/5c868d36.cae7e11f.js",
-          "hash": "8a0876a7c047560b",
-          "publicPath": "/ionedocs-site/ko/assets/js/5c868d36.cae7e11f.js"
+          "file": "assets/js/5c868d36.3d2fc016.js",
+          "hash": "06d5142aaaaa0a96",
+          "publicPath": "/ionedocs-site/ja/assets/js/5c868d36.3d2fc016.js"
         }
       ]
     },
@@ -413,34 +413,25 @@
         {
           "file": "assets/js/reactPlayerTwitch.a665823a.js",
           "hash": "6d6b5bc9e940f3bb",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerTwitch.a665823a.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerTwitch.a665823a.js"
         }
       ]
     },
     "2259": {
       "js": [
         {
-          "file": "assets/js/a2734db9.476433ac.js",
-          "hash": "74c82485c497abd1",
-          "publicPath": "/ionedocs-site/ko/assets/js/a2734db9.476433ac.js"
+          "file": "assets/js/a2734db9.2e8221b9.js",
+          "hash": "d97563845a811c3f",
+          "publicPath": "/ionedocs-site/ja/assets/js/a2734db9.2e8221b9.js"
         }
       ]
     },
     "2514": {
       "js": [
         {
-          "file": "assets/js/2e9e0e70.38b5aa82.js",
-          "hash": "bf09eed399cc9a14",
-          "publicPath": "/ionedocs-site/ko/assets/js/2e9e0e70.38b5aa82.js"
-        }
-      ]
-    },
-    "2539": {
-      "js": [
-        {
-          "file": "assets/js/8c376e99.cf932171.js",
-          "hash": "66a8c753ff356233",
-          "publicPath": "/ionedocs-site/ko/assets/js/8c376e99.cf932171.js"
+          "file": "assets/js/2e9e0e70.3c9f1bca.js",
+          "hash": "4611749fa9c72c5d",
+          "publicPath": "/ionedocs-site/ja/assets/js/2e9e0e70.3c9f1bca.js"
         }
       ]
     },
@@ -449,7 +440,16 @@
         {
           "file": "assets/js/2560.d3fdd58d.js",
           "hash": "120879e786952aa9",
-          "publicPath": "/ionedocs-site/ko/assets/js/2560.d3fdd58d.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/2560.d3fdd58d.js"
+        }
+      ]
+    },
+    "2594": {
+      "js": [
+        {
+          "file": "assets/js/fb58cc13.57e827c6.js",
+          "hash": "cb2227593bc1f356",
+          "publicPath": "/ionedocs-site/ja/assets/js/fb58cc13.57e827c6.js"
         }
       ]
     },
@@ -458,7 +458,7 @@
         {
           "file": "assets/js/c4f5d8e4.02224a9b.js",
           "hash": "3ab9b0390ac9feee",
-          "publicPath": "/ionedocs-site/ko/assets/js/c4f5d8e4.02224a9b.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/c4f5d8e4.02224a9b.js"
         }
       ]
     },
@@ -467,7 +467,7 @@
         {
           "file": "assets/js/9e4087bc.0c1897d1.js",
           "hash": "120108a4b862de6e",
-          "publicPath": "/ionedocs-site/ko/assets/js/9e4087bc.0c1897d1.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/9e4087bc.0c1897d1.js"
         }
       ]
     },
@@ -476,25 +476,43 @@
         {
           "file": "assets/js/reactPlayerMux.c96115a1.js",
           "hash": "414996809b605646",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerMux.c96115a1.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerMux.c96115a1.js"
+        }
+      ]
+    },
+    "2776": {
+      "js": [
+        {
+          "file": "assets/js/db551a3d.fca19c19.js",
+          "hash": "f198ae094d9e67e7",
+          "publicPath": "/ionedocs-site/ja/assets/js/db551a3d.fca19c19.js"
         }
       ]
     },
     "3098": {
       "js": [
         {
-          "file": "assets/js/533a09ca.63af134e.js",
-          "hash": "86948b41f9e5978d",
-          "publicPath": "/ionedocs-site/ko/assets/js/533a09ca.63af134e.js"
+          "file": "assets/js/533a09ca.f4195bfa.js",
+          "hash": "366cfbf73492ffb4",
+          "publicPath": "/ionedocs-site/ja/assets/js/533a09ca.f4195bfa.js"
         }
       ]
     },
     "3145": {
       "js": [
         {
-          "file": "assets/js/82b034d3.51c6d3bc.js",
-          "hash": "bc70ab0396b14619",
-          "publicPath": "/ionedocs-site/ko/assets/js/82b034d3.51c6d3bc.js"
+          "file": "assets/js/82b034d3.cce561b3.js",
+          "hash": "d755a63721ba1ebf",
+          "publicPath": "/ionedocs-site/ja/assets/js/82b034d3.cce561b3.js"
+        }
+      ]
+    },
+    "3229": {
+      "js": [
+        {
+          "file": "assets/js/52aa4e7e.9f5ea0e9.js",
+          "hash": "57d0773f08f8db99",
+          "publicPath": "/ionedocs-site/ja/assets/js/52aa4e7e.9f5ea0e9.js"
         }
       ]
     },
@@ -503,25 +521,25 @@
         {
           "file": "assets/js/ccc49370.f7297f7c.js",
           "hash": "d5b33f10a983b6fd",
-          "publicPath": "/ionedocs-site/ko/assets/js/ccc49370.f7297f7c.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/ccc49370.f7297f7c.js"
         }
       ]
     },
     "3312": {
       "js": [
         {
-          "file": "assets/js/c9658875.3431be1a.js",
-          "hash": "589d7e31b2a23784",
-          "publicPath": "/ionedocs-site/ko/assets/js/c9658875.3431be1a.js"
+          "file": "assets/js/c9658875.483b25a7.js",
+          "hash": "c84b3b10a79edb45",
+          "publicPath": "/ionedocs-site/ja/assets/js/c9658875.483b25a7.js"
         }
       ]
     },
     "3361": {
       "js": [
         {
-          "file": "assets/js/1781d461.867a0806.js",
-          "hash": "badd624ba90df84a",
-          "publicPath": "/ionedocs-site/ko/assets/js/1781d461.867a0806.js"
+          "file": "assets/js/1781d461.a3e60678.js",
+          "hash": "594f5180c286a250",
+          "publicPath": "/ionedocs-site/ja/assets/js/1781d461.a3e60678.js"
         }
       ]
     },
@@ -530,25 +548,25 @@
         {
           "file": "assets/js/reactPlayerVidyard.b7d2f5f7.js",
           "hash": "e7b1562d24d53070",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerVidyard.b7d2f5f7.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerVidyard.b7d2f5f7.js"
         }
       ]
     },
     "3637": {
       "js": [
         {
-          "file": "assets/js/f4f34a3a.24774b17.js",
-          "hash": "bb2ca98a4c974b13",
-          "publicPath": "/ionedocs-site/ko/assets/js/f4f34a3a.24774b17.js"
+          "file": "assets/js/f4f34a3a.ed5608f0.js",
+          "hash": "4e7a66c628722d45",
+          "publicPath": "/ionedocs-site/ja/assets/js/f4f34a3a.ed5608f0.js"
         }
       ]
     },
     "3694": {
       "js": [
         {
-          "file": "assets/js/8717b14a.a828720f.js",
-          "hash": "a53c5f1514b61d3d",
-          "publicPath": "/ionedocs-site/ko/assets/js/8717b14a.a828720f.js"
+          "file": "assets/js/8717b14a.612ae9c8.js",
+          "hash": "4e8f7efd29abb4f9",
+          "publicPath": "/ionedocs-site/ja/assets/js/8717b14a.612ae9c8.js"
         }
       ]
     },
@@ -557,16 +575,16 @@
         {
           "file": "assets/js/4132.851d285c.js",
           "hash": "4fc46f7d29322686",
-          "publicPath": "/ionedocs-site/ko/assets/js/4132.851d285c.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/4132.851d285c.js"
         }
       ]
     },
     "4134": {
       "js": [
         {
-          "file": "assets/js/393be207.69618528.js",
-          "hash": "d2a06a930e036bfb",
-          "publicPath": "/ionedocs-site/ko/assets/js/393be207.69618528.js"
+          "file": "assets/js/393be207.eaea8dcf.js",
+          "hash": "7d6d729aff0dd1ae",
+          "publicPath": "/ionedocs-site/ja/assets/js/393be207.eaea8dcf.js"
         }
       ]
     },
@@ -575,16 +593,16 @@
         {
           "file": "assets/js/621db11d.b8b922ae.js",
           "hash": "1a5a9b9748c066f0",
-          "publicPath": "/ionedocs-site/ko/assets/js/621db11d.b8b922ae.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/621db11d.b8b922ae.js"
         }
       ]
     },
     "4237": {
       "js": [
         {
-          "file": "assets/js/ebe313fa.590046f8.js",
-          "hash": "0d32f138e9df199f",
-          "publicPath": "/ionedocs-site/ko/assets/js/ebe313fa.590046f8.js"
+          "file": "assets/js/ebe313fa.c442921b.js",
+          "hash": "d853ef3f20226eca",
+          "publicPath": "/ionedocs-site/ja/assets/js/ebe313fa.c442921b.js"
         }
       ]
     },
@@ -593,7 +611,25 @@
         {
           "file": "assets/js/4575.70078f32.js",
           "hash": "b9d17f40bcb7ac70",
-          "publicPath": "/ionedocs-site/ko/assets/js/4575.70078f32.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/4575.70078f32.js"
+        }
+      ]
+    },
+    "4685": {
+      "js": [
+        {
+          "file": "assets/js/b4865cf8.797284de.js",
+          "hash": "d068ec0a58b35783",
+          "publicPath": "/ionedocs-site/ja/assets/js/b4865cf8.797284de.js"
+        }
+      ]
+    },
+    "4792": {
+      "js": [
+        {
+          "file": "assets/js/0aeb1ad9.61f28a99.js",
+          "hash": "4889d01dd048f98c",
+          "publicPath": "/ionedocs-site/ja/assets/js/0aeb1ad9.61f28a99.js"
         }
       ]
     },
@@ -602,70 +638,52 @@
         {
           "file": "assets/js/6875c492.a143239e.js",
           "hash": "c7f6ee5bea9db1d0",
-          "publicPath": "/ionedocs-site/ko/assets/js/6875c492.a143239e.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/6875c492.a143239e.js"
         }
       ]
     },
     "4815": {
       "js": [
         {
-          "file": "assets/js/8d721a85.8987e797.js",
-          "hash": "4dd3c1ff977dd7ba",
-          "publicPath": "/ionedocs-site/ko/assets/js/8d721a85.8987e797.js"
-        }
-      ]
-    },
-    "5132": {
-      "js": [
-        {
-          "file": "assets/js/4b508dc7.15bc5f7f.js",
-          "hash": "a5c4276c1c3fa190",
-          "publicPath": "/ionedocs-site/ko/assets/js/4b508dc7.15bc5f7f.js"
+          "file": "assets/js/8d721a85.a836a1db.js",
+          "hash": "ed67fd05a11484be",
+          "publicPath": "/ionedocs-site/ja/assets/js/8d721a85.a836a1db.js"
         }
       ]
     },
     "5149": {
       "js": [
         {
-          "file": "assets/js/57533e3c.a5cd6472.js",
-          "hash": "a7e8a7d9c95869f9",
-          "publicPath": "/ionedocs-site/ko/assets/js/57533e3c.a5cd6472.js"
+          "file": "assets/js/57533e3c.40161d84.js",
+          "hash": "e2145c3345bb5e68",
+          "publicPath": "/ionedocs-site/ja/assets/js/57533e3c.40161d84.js"
         }
       ]
     },
     "5218": {
       "js": [
         {
-          "file": "assets/js/784a31b7.c8795c69.js",
-          "hash": "8f02b047d5d7f461",
-          "publicPath": "/ionedocs-site/ko/assets/js/784a31b7.c8795c69.js"
+          "file": "assets/js/784a31b7.1cc31c0a.js",
+          "hash": "30a333eb1a12d8cb",
+          "publicPath": "/ionedocs-site/ja/assets/js/784a31b7.1cc31c0a.js"
         }
       ]
     },
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.75b51f27.js",
-          "hash": "b6eaebfaa5d056cc",
-          "publicPath": "/ionedocs-site/ko/assets/js/runtime~main.75b51f27.js"
-        }
-      ]
-    },
-    "5455": {
-      "js": [
-        {
-          "file": "assets/js/f4d7572c.0c4c9162.js",
-          "hash": "a1875642b5f803f2",
-          "publicPath": "/ionedocs-site/ko/assets/js/f4d7572c.0c4c9162.js"
+          "file": "assets/js/runtime~main.def75574.js",
+          "hash": "4735e3276535b891",
+          "publicPath": "/ionedocs-site/ja/assets/js/runtime~main.def75574.js"
         }
       ]
     },
     "5557": {
       "js": [
         {
-          "file": "assets/js/d9f32620.ff6e5e33.js",
-          "hash": "abc21025175e366b",
-          "publicPath": "/ionedocs-site/ko/assets/js/d9f32620.ff6e5e33.js"
+          "file": "assets/js/d9f32620.e54e0afe.js",
+          "hash": "0b8ce1576b76cbc2",
+          "publicPath": "/ionedocs-site/ja/assets/js/d9f32620.e54e0afe.js"
         }
       ]
     },
@@ -674,7 +692,7 @@
         {
           "file": "assets/js/aba21aa0.88370a23.js",
           "hash": "fd26ed50c5b9a7c9",
-          "publicPath": "/ionedocs-site/ko/assets/js/aba21aa0.88370a23.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/aba21aa0.88370a23.js"
         }
       ]
     },
@@ -683,16 +701,16 @@
         {
           "file": "assets/js/5864.22fa9a4b.js",
           "hash": "a09d8dab92e18906",
-          "publicPath": "/ionedocs-site/ko/assets/js/5864.22fa9a4b.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/5864.22fa9a4b.js"
         }
       ]
     },
     "5991": {
       "js": [
         {
-          "file": "assets/js/a8a8e07b.6809bf64.js",
-          "hash": "858a1027b68d1c0a",
-          "publicPath": "/ionedocs-site/ko/assets/js/a8a8e07b.6809bf64.js"
+          "file": "assets/js/a8a8e07b.6152296e.js",
+          "hash": "67de82ad3dac5df6",
+          "publicPath": "/ionedocs-site/ja/assets/js/a8a8e07b.6152296e.js"
         }
       ]
     },
@@ -701,7 +719,16 @@
         {
           "file": "assets/js/1f391b9e.a3198709.js",
           "hash": "011196f0bde6e5ee",
-          "publicPath": "/ionedocs-site/ko/assets/js/1f391b9e.a3198709.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/1f391b9e.a3198709.js"
+        }
+      ]
+    },
+    "6067": {
+      "js": [
+        {
+          "file": "assets/js/4a5fbf22.8f85c744.js",
+          "hash": "ce272022fe109b67",
+          "publicPath": "/ionedocs-site/ja/assets/js/4a5fbf22.8f85c744.js"
         }
       ]
     },
@@ -710,7 +737,16 @@
         {
           "file": "assets/js/reactPlayerVimeo.666e1510.js",
           "hash": "b0c7a51ca45a7cb4",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerVimeo.666e1510.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerVimeo.666e1510.js"
+        }
+      ]
+    },
+    "6297": {
+      "js": [
+        {
+          "file": "assets/js/0821ddd1.9045e245.js",
+          "hash": "92420eafcafea1fb",
+          "publicPath": "/ionedocs-site/ja/assets/js/0821ddd1.9045e245.js"
         }
       ]
     },
@@ -719,7 +755,7 @@
         {
           "file": "assets/js/reactPlayerDailyMotion.201a091c.js",
           "hash": "469b2367444cd5b8",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerDailyMotion.201a091c.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerDailyMotion.201a091c.js"
         }
       ]
     },
@@ -728,16 +764,16 @@
         {
           "file": "assets/js/reactPlayerPreview.f0bd56d6.js",
           "hash": "0b5973923c37bd45",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerPreview.f0bd56d6.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerPreview.f0bd56d6.js"
         }
       ]
     },
-    "6378": {
+    "6437": {
       "js": [
         {
-          "file": "assets/js/afa087fb.ee2c9a23.js",
-          "hash": "13ad331b31712864",
-          "publicPath": "/ionedocs-site/ko/assets/js/afa087fb.ee2c9a23.js"
+          "file": "assets/js/250f7d9e.61725b44.js",
+          "hash": "45ed53ef2f0afd0e",
+          "publicPath": "/ionedocs-site/ja/assets/js/250f7d9e.61725b44.js"
         }
       ]
     },
@@ -746,16 +782,16 @@
         {
           "file": "assets/js/reactPlayerKaltura.b4e69bb5.js",
           "hash": "843e09003d20c46d",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerKaltura.b4e69bb5.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerKaltura.b4e69bb5.js"
         }
       ]
     },
     "6872": {
       "js": [
         {
-          "file": "assets/js/8404848c.90f1073e.js",
-          "hash": "8cacf827cf3e4ef9",
-          "publicPath": "/ionedocs-site/ko/assets/js/8404848c.90f1073e.js"
+          "file": "assets/js/8404848c.f6cab4f1.js",
+          "hash": "83645f328adf405a",
+          "publicPath": "/ionedocs-site/ja/assets/js/8404848c.f6cab4f1.js"
         }
       ]
     },
@@ -764,16 +800,16 @@
         {
           "file": "assets/js/reactPlayerFacebook.c08f1b60.js",
           "hash": "fde4559e6a225548",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerFacebook.c08f1b60.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerFacebook.c08f1b60.js"
         }
       ]
     },
     "6967": {
       "js": [
         {
-          "file": "assets/js/f587860b.6abde516.js",
-          "hash": "518888fcbb6a30a0",
-          "publicPath": "/ionedocs-site/ko/assets/js/f587860b.6abde516.js"
+          "file": "assets/js/f587860b.1158b2bb.js",
+          "hash": "379b36c99bb569ba",
+          "publicPath": "/ionedocs-site/ja/assets/js/f587860b.1158b2bb.js"
         }
       ]
     },
@@ -782,16 +818,7 @@
         {
           "file": "assets/js/14eb3368.0c66900c.js",
           "hash": "ee3dce1e3fa5543c",
-          "publicPath": "/ionedocs-site/ko/assets/js/14eb3368.0c66900c.js"
-        }
-      ]
-    },
-    "7054": {
-      "js": [
-        {
-          "file": "assets/js/e880c753.0ef1145e.js",
-          "hash": "85e2ffce03e72a0c",
-          "publicPath": "/ionedocs-site/ko/assets/js/e880c753.0ef1145e.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/14eb3368.0c66900c.js"
         }
       ]
     },
@@ -800,7 +827,7 @@
         {
           "file": "assets/js/a7bd4aaa.501d2011.js",
           "hash": "afc910523dce239d",
-          "publicPath": "/ionedocs-site/ko/assets/js/a7bd4aaa.501d2011.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/a7bd4aaa.501d2011.js"
         }
       ]
     },
@@ -809,25 +836,25 @@
         {
           "file": "assets/js/reactPlayerFilePlayer.7793f016.js",
           "hash": "5e07f808589f895f",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerFilePlayer.7793f016.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerFilePlayer.7793f016.js"
         }
       ]
     },
     "7472": {
       "js": [
         {
-          "file": "assets/js/814f3328.3c1030ca.js",
-          "hash": "c05ac230e554a60e",
-          "publicPath": "/ionedocs-site/ko/assets/js/814f3328.3c1030ca.js"
+          "file": "assets/js/814f3328.79190de8.js",
+          "hash": "2a92ced9b2db3494",
+          "publicPath": "/ionedocs-site/ja/assets/js/814f3328.79190de8.js"
         }
       ]
     },
     "7473": {
       "js": [
         {
-          "file": "assets/js/1d4972f9.1af1743b.js",
-          "hash": "1885618d19771494",
-          "publicPath": "/ionedocs-site/ko/assets/js/1d4972f9.1af1743b.js"
+          "file": "assets/js/1d4972f9.71be40aa.js",
+          "hash": "c193fc4fc490a14e",
+          "publicPath": "/ionedocs-site/ja/assets/js/1d4972f9.71be40aa.js"
         }
       ]
     },
@@ -836,7 +863,7 @@
         {
           "file": "assets/js/reactPlayerMixcloud.576cd1a6.js",
           "hash": "487de5056acd01da",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerMixcloud.576cd1a6.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerMixcloud.576cd1a6.js"
         }
       ]
     },
@@ -845,7 +872,7 @@
         {
           "file": "assets/js/reactPlayerStreamable.2876126e.js",
           "hash": "bde61d88ecc86ac3",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerStreamable.2876126e.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerStreamable.2876126e.js"
         }
       ]
     },
@@ -854,16 +881,25 @@
         {
           "file": "assets/js/a6aa9e1f.f321794f.js",
           "hash": "9185ba64c570d5f0",
-          "publicPath": "/ionedocs-site/ko/assets/js/a6aa9e1f.f321794f.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/a6aa9e1f.f321794f.js"
         }
       ]
     },
     "7668": {
       "js": [
         {
-          "file": "assets/js/d654422f.aa01bfe6.js",
-          "hash": "229f9daed95b433f",
-          "publicPath": "/ionedocs-site/ko/assets/js/d654422f.aa01bfe6.js"
+          "file": "assets/js/d654422f.da5ea7e8.js",
+          "hash": "257fa109c2ce12a8",
+          "publicPath": "/ionedocs-site/ja/assets/js/d654422f.da5ea7e8.js"
+        }
+      ]
+    },
+    "7807": {
+      "js": [
+        {
+          "file": "assets/js/a96ea43c.6df8a4ea.js",
+          "hash": "b26aee1501ee35de",
+          "publicPath": "/ionedocs-site/ja/assets/js/a96ea43c.6df8a4ea.js"
         }
       ]
     },
@@ -872,16 +908,7 @@
         {
           "file": "assets/js/01a85c17.fc462e54.js",
           "hash": "118452ef34b5e759",
-          "publicPath": "/ionedocs-site/ko/assets/js/01a85c17.fc462e54.js"
-        }
-      ]
-    },
-    "8297": {
-      "js": [
-        {
-          "file": "assets/js/5c918f2d.2fa25357.js",
-          "hash": "670bbeffaab34f40",
-          "publicPath": "/ionedocs-site/ko/assets/js/5c918f2d.2fa25357.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/01a85c17.fc462e54.js"
         }
       ]
     },
@@ -890,7 +917,7 @@
         {
           "file": "assets/js/17896441.349ff9fc.js",
           "hash": "457cad415fc92f65",
-          "publicPath": "/ionedocs-site/ko/assets/js/17896441.349ff9fc.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/17896441.349ff9fc.js"
         }
       ]
     },
@@ -899,70 +926,52 @@
         {
           "file": "assets/js/reactPlayerYouTube.39fc7ab9.js",
           "hash": "248a2b173e2cf466",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerYouTube.39fc7ab9.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerYouTube.39fc7ab9.js"
         }
       ]
     },
     "8609": {
       "js": [
         {
-          "file": "assets/js/925b3f96.9674fc90.js",
-          "hash": "d5a6323e7ba396ed",
-          "publicPath": "/ionedocs-site/ko/assets/js/925b3f96.9674fc90.js"
-        }
-      ]
-    },
-    "8720": {
-      "js": [
-        {
-          "file": "assets/js/60a766eb.d2274cba.js",
-          "hash": "8cb20ae363bdfdb5",
-          "publicPath": "/ionedocs-site/ko/assets/js/60a766eb.d2274cba.js"
+          "file": "assets/js/925b3f96.948a1d2e.js",
+          "hash": "cd7bd6ff2769eb9a",
+          "publicPath": "/ionedocs-site/ja/assets/js/925b3f96.948a1d2e.js"
         }
       ]
     },
     "8737": {
       "js": [
         {
-          "file": "assets/js/7661071f.0d487a61.js",
-          "hash": "77e22d74a4b9fe46",
-          "publicPath": "/ionedocs-site/ko/assets/js/7661071f.0d487a61.js"
+          "file": "assets/js/7661071f.6eafaa92.js",
+          "hash": "e1bc0a93a4819e36",
+          "publicPath": "/ionedocs-site/ja/assets/js/7661071f.6eafaa92.js"
         }
       ]
     },
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.5d9347c5.js",
-          "hash": "954864b7d847ae96",
-          "publicPath": "/ionedocs-site/ko/assets/js/main.5d9347c5.js"
+          "file": "assets/js/main.79851669.js",
+          "hash": "bfb27031f28c4d8c",
+          "publicPath": "/ionedocs-site/ja/assets/js/main.79851669.js"
         }
       ]
     },
     "8806": {
       "js": [
         {
-          "file": "assets/js/d349d4cb.f010ddf7.js",
-          "hash": "4e7b607fd8c9377a",
-          "publicPath": "/ionedocs-site/ko/assets/js/d349d4cb.f010ddf7.js"
+          "file": "assets/js/d349d4cb.61eaf173.js",
+          "hash": "a84fbd7cce1dbe78",
+          "publicPath": "/ionedocs-site/ja/assets/js/d349d4cb.61eaf173.js"
         }
       ]
     },
     "8863": {
       "js": [
         {
-          "file": "assets/js/f55d3e7a.e98c5c3f.js",
-          "hash": "229830d11f0a773d",
-          "publicPath": "/ionedocs-site/ko/assets/js/f55d3e7a.e98c5c3f.js"
-        }
-      ]
-    },
-    "9010": {
-      "js": [
-        {
-          "file": "assets/js/b90d046d.7791d279.js",
-          "hash": "05c1b23ae3fce8a7",
-          "publicPath": "/ionedocs-site/ko/assets/js/b90d046d.7791d279.js"
+          "file": "assets/js/f55d3e7a.6d9932d2.js",
+          "hash": "ba43e9f1e66f0ddb",
+          "publicPath": "/ionedocs-site/ja/assets/js/f55d3e7a.6d9932d2.js"
         }
       ]
     },
@@ -971,43 +980,43 @@
         {
           "file": "assets/js/a94703ab.f5737599.js",
           "hash": "9c9694b1c39c7d9c",
-          "publicPath": "/ionedocs-site/ko/assets/js/a94703ab.f5737599.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/a94703ab.f5737599.js"
         }
       ]
     },
     "9262": {
       "js": [
         {
-          "file": "assets/js/e0bc610d.979e7364.js",
-          "hash": "ff976c98de33cfd9",
-          "publicPath": "/ionedocs-site/ko/assets/js/e0bc610d.979e7364.js"
+          "file": "assets/js/e0bc610d.c0ec966b.js",
+          "hash": "4a89b1e6f543e3c6",
+          "publicPath": "/ionedocs-site/ja/assets/js/e0bc610d.c0ec966b.js"
         }
       ]
     },
     "9325": {
       "js": [
         {
-          "file": "assets/js/59362658.ff2003d8.js",
-          "hash": "43f0b3c14aff7fdf",
-          "publicPath": "/ionedocs-site/ko/assets/js/59362658.ff2003d8.js"
+          "file": "assets/js/59362658.e4a75a71.js",
+          "hash": "42a5f3fccc5aed05",
+          "publicPath": "/ionedocs-site/ja/assets/js/59362658.e4a75a71.js"
         }
       ]
     },
     "9328": {
       "js": [
         {
-          "file": "assets/js/e273c56f.a7dc5b60.js",
-          "hash": "c72eef3901aed061",
-          "publicPath": "/ionedocs-site/ko/assets/js/e273c56f.a7dc5b60.js"
+          "file": "assets/js/e273c56f.3d38b83f.js",
+          "hash": "a4d4297863f3128d",
+          "publicPath": "/ionedocs-site/ja/assets/js/e273c56f.3d38b83f.js"
         }
       ]
     },
     "9331": {
       "js": [
         {
-          "file": "assets/js/4f42b96a.6ddd56e5.js",
-          "hash": "f77d4f899dfb29c5",
-          "publicPath": "/ionedocs-site/ko/assets/js/4f42b96a.6ddd56e5.js"
+          "file": "assets/js/4f42b96a.66f3ab31.js",
+          "hash": "477eaf02a080e22b",
+          "publicPath": "/ionedocs-site/ja/assets/js/4f42b96a.66f3ab31.js"
         }
       ]
     },
@@ -1016,25 +1025,25 @@
         {
           "file": "assets/js/reactPlayerWistia.c152af9a.js",
           "hash": "0efa95321c0afa16",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerWistia.c152af9a.js"
-        }
-      ]
-    },
-    "9401": {
-      "js": [
-        {
-          "file": "assets/js/613e07a9.b224eaa7.js",
-          "hash": "412e39ee139c900e",
-          "publicPath": "/ionedocs-site/ko/assets/js/613e07a9.b224eaa7.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerWistia.c152af9a.js"
         }
       ]
     },
     "9494": {
       "js": [
         {
-          "file": "assets/js/6f7df4b4.b544d3af.js",
-          "hash": "131c70f85714f4d4",
-          "publicPath": "/ionedocs-site/ko/assets/js/6f7df4b4.b544d3af.js"
+          "file": "assets/js/6f7df4b4.38ca2dc7.js",
+          "hash": "408d1e73f542810b",
+          "publicPath": "/ionedocs-site/ja/assets/js/6f7df4b4.38ca2dc7.js"
+        }
+      ]
+    },
+    "9548": {
+      "js": [
+        {
+          "file": "assets/js/d6539204.a15d9289.js",
+          "hash": "8dbb20075e8fd318",
+          "publicPath": "/ionedocs-site/ja/assets/js/d6539204.a15d9289.js"
         }
       ]
     },
@@ -1043,16 +1052,7 @@
         {
           "file": "assets/js/5e95c892.239b9d82.js",
           "hash": "de250c9e51fd5b28",
-          "publicPath": "/ionedocs-site/ko/assets/js/5e95c892.239b9d82.js"
-        }
-      ]
-    },
-    "9786": {
-      "js": [
-        {
-          "file": "assets/js/1d30008c.f0da87fd.js",
-          "hash": "2631060a51dafbee",
-          "publicPath": "/ionedocs-site/ko/assets/js/1d30008c.f0da87fd.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/5e95c892.239b9d82.js"
         }
       ]
     },
@@ -1061,16 +1061,16 @@
         {
           "file": "assets/js/36994c47.56f87c0d.js",
           "hash": "b1e97ead12c9488e",
-          "publicPath": "/ionedocs-site/ko/assets/js/36994c47.56f87c0d.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/36994c47.56f87c0d.js"
         }
       ]
     },
     "9916": {
       "js": [
         {
-          "file": "assets/js/a8f2e3d0.f9f31f2d.js",
-          "hash": "1528c5acd9791757",
-          "publicPath": "/ionedocs-site/ko/assets/js/a8f2e3d0.f9f31f2d.js"
+          "file": "assets/js/a8f2e3d0.bb3a55e0.js",
+          "hash": "51cf7ba55cb65e66",
+          "publicPath": "/ionedocs-site/ja/assets/js/a8f2e3d0.bb3a55e0.js"
         }
       ]
     },
@@ -1079,7 +1079,7 @@
         {
           "file": "assets/js/reactPlayerSoundCloud.e0da7116.js",
           "hash": "12d31fd86b07f8fd",
-          "publicPath": "/ionedocs-site/ko/assets/js/reactPlayerSoundCloud.e0da7116.js"
+          "publicPath": "/ionedocs-site/ja/assets/js/reactPlayerSoundCloud.e0da7116.js"
         }
       ]
     }

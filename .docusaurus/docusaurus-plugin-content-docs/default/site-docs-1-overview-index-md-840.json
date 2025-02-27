@@ -5,7 +5,7 @@
   "source": "@site/docs/1_Overview/index.md",
   "sourceDirName": "1_Overview",
   "slug": "/Overview/",
-  "permalink": "/ionedocs-site/ko/docs/Overview/",
+  "permalink": "/ionedocs-site/ja/docs/Overview/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Overview/index.md",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Products",
-    "permalink": "/ionedocs-site/ko/docs/category/products"
+    "permalink": "/ionedocs-site/ja/docs/category/products"
   }
 }

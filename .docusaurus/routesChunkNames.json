@@ -1,5 +1,5 @@
 {
-  "/ionedocs-site/ko/blog-c10": {
+  "/ionedocs-site/ja/blog-f84": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "613e07a9"
+    "__props": "fb58cc13"
   },
-  "/ionedocs-site/ko/blog/archive-25d": {
+  "/ionedocs-site/ja/blog/archive-68e": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "f4d7572c"
+    "__props": "f1b762a5"
   },
-  "/ionedocs-site/ko/blog/authors-cc4": {
+  "/ionedocs-site/ja/blog/authors-659": {
     "__comp": "621db11d",
     "__context": {
       "data": {
@@ -37,9 +37,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "4b508dc7"
+    "__props": "250f7d9e"
   },
-  "/ionedocs-site/ko/blog/authors/all-sebastien-lorber-articles-bad": {
+  "/ionedocs-site/ja/blog/authors/all-sebastien-lorber-articles-e2d": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -59,9 +59,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "afa087fb"
+    "__props": "b51a242e"
   },
-  "/ionedocs-site/ko/blog/authors/yangshun-db0": {
+  "/ionedocs-site/ja/blog/authors/yangshun-1ba": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -81,9 +81,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "5c918f2d"
+    "__props": "db551a3d"
   },
-  "/ionedocs-site/ko/blog/first-blog-post-95d": {
+  "/ionedocs-site/ja/blog/first-blog-post-422": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -94,7 +94,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/ionedocs-site/ko/blog/long-blog-post-40a": {
+  "/ionedocs-site/ja/blog/long-blog-post-bb1": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -105,7 +105,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/ionedocs-site/ko/blog/mdx-blog-post-377": {
+  "/ionedocs-site/ja/blog/mdx-blog-post-0da": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -116,15 +116,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/ionedocs-site/ko/blog/tags-f3a": {
+  "/ionedocs-site/ja/blog/tags-85c": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "69cd7c98"
+    "__props": "52aa4e7e"
   },
-  "/ionedocs-site/ko/blog/tags/docusaurus-ed5": {
+  "/ionedocs-site/ja/blog/tags/docusaurus-e5e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -144,9 +144,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "4c37b9b3"
+    "__props": "0821ddd1"
   },
-  "/ionedocs-site/ko/blog/tags/facebook-e80": {
+  "/ionedocs-site/ja/blog/tags/facebook-167": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -157,9 +157,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "1d30008c"
+    "__props": "4a5fbf22"
   },
-  "/ionedocs-site/ko/blog/tags/hello-a4d": {
+  "/ionedocs-site/ja/blog/tags/hello-14a": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -173,9 +173,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "e880c753"
+    "__props": "0aeb1ad9"
   },
-  "/ionedocs-site/ko/blog/tags/hola-f6f": {
+  "/ionedocs-site/ja/blog/tags/hola-c45": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -186,9 +186,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "60a766eb"
+    "__props": "d6539204"
   },
-  "/ionedocs-site/ko/blog/welcome-ad3": {
+  "/ionedocs-site/ja/blog/welcome-5af": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -199,127 +199,127 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/ionedocs-site/ko/markdown-page-ba0": {
+  "/ionedocs-site/ja/markdown-page-c96": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/ionedocs-site/ko/docs-383": {
+  "/ionedocs-site/ja/docs-cd2": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/ionedocs-site/ko/docs-7db": {
+  "/ionedocs-site/ja/docs-690": {
     "__comp": "a7bd4aaa",
-    "__props": "b90d046d"
+    "__props": "b4865cf8"
   },
-  "/ionedocs-site/ko/docs-fb7": {
+  "/ionedocs-site/ja/docs-6ea": {
     "__comp": "a94703ab"
   },
-  "/ionedocs-site/ko/docs/Backup & View/-64b": {
+  "/ionedocs-site/ja/docs/Backup & View/-63b": {
     "__comp": "17896441",
     "content": "d654422f"
   },
-  "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices-076": {
+  "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices-425": {
     "__comp": "17896441",
     "content": "1d4972f9"
   },
-  "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent-654": {
+  "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent-293": {
     "__comp": "17896441",
     "content": "6f7df4b4"
   },
-  "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Create Groups-eb9": {
+  "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Create Groups-919": {
     "__comp": "17896441",
     "content": "57533e3c"
   },
-  "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Migration-350": {
+  "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Migration-873": {
     "__comp": "17896441",
     "content": "a8f2e3d0"
   },
-  "/ionedocs-site/ko/docs/category/products-f86": {
+  "/ionedocs-site/ja/docs/category/products-96d": {
     "__comp": "14eb3368",
-    "__props": "8c376e99"
+    "__props": "a96ea43c"
   },
-  "/ionedocs-site/ko/docs/ImageWorklist/-a1b": {
+  "/ionedocs-site/ja/docs/ImageWorklist/-ed1": {
     "__comp": "17896441",
     "content": "5aa2253c"
   },
-  "/ionedocs-site/ko/docs/ImageWorklist/-fda": {
+  "/ionedocs-site/ja/docs/ImageWorklist/-eba": {
     "__comp": "17896441",
     "content": "1781d461"
   },
-  "/ionedocs-site/ko/docs/intro/-632": {
+  "/ionedocs-site/ja/docs/intro/-15f": {
     "__comp": "17896441",
     "content": "ebe313fa"
   },
-  "/ionedocs-site/ko/docs/Overview/-700": {
+  "/ionedocs-site/ja/docs/Overview/-c76": {
     "__comp": "17896441",
     "content": "8404848c"
   },
-  "/ionedocs-site/ko/docs/Raphaview/-02a": {
+  "/ionedocs-site/ja/docs/Raphaview/-d6a": {
     "__comp": "17896441",
     "content": "2e9e0e70"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Glossary/DICOMImport-e6b": {
+  "/ionedocs-site/ja/docs/Raphaview/Glossary/DICOMImport-651": {
     "__comp": "17896441",
     "content": "e0bc610d"
   },
-  "/ionedocs-site/ko/docs/Raphaview/guidelines-291": {
+  "/ionedocs-site/ja/docs/Raphaview/guidelines-06b": {
     "__comp": "17896441",
     "content": "82b034d3"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/-e85": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/-0aa": {
     "__comp": "17896441",
     "content": "8d721a85"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/Annotation and Measurement-288": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/Annotation and Measurement-7bb": {
     "__comp": "17896441",
     "content": "a8a8e07b"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/Comparing Studies-6a8": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/Comparing Studies-03a": {
     "__comp": "17896441",
     "content": "c9658875"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/DICOMExport-008": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/DICOMExport-916": {
     "__comp": "17896441",
     "content": "d349d4cb"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/display-1f5": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/display-884": {
     "__comp": "17896441",
     "content": "a2734db9"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/ImageOrientationandManipulation-92e": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation-864": {
     "__comp": "17896441",
     "content": "4f42b96a"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/Overall GUI-635": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/Overall GUI-daf": {
     "__comp": "17896441",
     "content": "f587860b"
   },
-  "/ionedocs-site/ko/docs/Raphaview/Tutorials/Viewers_tools-301": {
+  "/ionedocs-site/ja/docs/Raphaview/Tutorials/Viewers_tools-18e": {
     "__comp": "17896441",
     "content": "784a31b7"
   },
-  "/ionedocs-site/ko/docs/tutorial-basics/create-a-blog-post-e11": {
+  "/ionedocs-site/ja/docs/tutorial-basics/create-a-blog-post-301": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/ionedocs-site/ko/docs/tutorial-basics/create-a-document-d4d": {
+  "/ionedocs-site/ja/docs/tutorial-basics/create-a-document-2f0": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/ionedocs-site/ko/docs/tutorial-basics/create-a-page-883": {
+  "/ionedocs-site/ja/docs/tutorial-basics/create-a-page-8da": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/ionedocs-site/ko/docs/tutorial-basics/deploy-your-site-44f": {
+  "/ionedocs-site/ja/docs/tutorial-basics/deploy-your-site-cdc": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/ionedocs-site/ko/-af5": {
+  "/ionedocs-site/ja/-533": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

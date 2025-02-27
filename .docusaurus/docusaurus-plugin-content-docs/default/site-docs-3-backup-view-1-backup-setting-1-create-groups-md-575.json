@@ -5,7 +5,7 @@
   "source": "@site/docs/3_Backup & View/1_Backup Setting/1_Create Groups.md",
   "sourceDirName": "3_Backup & View/1_Backup Setting",
   "slug": "/Backup & View/Backup Setting/Create Groups",
-  "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Create Groups",
+  "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Create Groups",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/1_Backup Setting/1_Create Groups.md",
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Backup & View",
-    "permalink": "/ionedocs-site/ko/docs/Backup & View/"
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/"
   },
   "next": {
     "title": "Migration",
-    "permalink": "/ionedocs-site/ko/docs/Backup & View/Backup Setting/Migration"
+    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Migration"
   }
 }
