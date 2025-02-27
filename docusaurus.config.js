@@ -152,9 +152,12 @@ export default {
   // ...
   title: 'ionedocs',
   url: 'https://anjohyun.github.io/', // Your website URL
-  baseUrl: '/',
+  baseUrl: '/ione/',
   projectName: 'ione',
-  organizationName: 'irm',
+  organizationName: 'johyun_ione',
   trailingSlash: false,
+  deploymentBranch: 'master',
   // ...
 };
+
+
