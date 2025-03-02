@@ -3,238 +3,203 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ione/__docusaurus/debug',
-    component: ComponentCreator('/ione/__docusaurus/debug', '8cb'),
+    path: '/ione/ja/blog',
+    component: ComponentCreator('/ione/ja/blog', '936'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/config',
-    component: ComponentCreator('/ione/__docusaurus/debug/config', '2af'),
+    path: '/ione/ja/blog/archive',
+    component: ComponentCreator('/ione/ja/blog/archive', '9d7'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/content',
-    component: ComponentCreator('/ione/__docusaurus/debug/content', '598'),
+    path: '/ione/ja/blog/authors',
+    component: ComponentCreator('/ione/ja/blog/authors', 'a0f'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/globalData',
-    component: ComponentCreator('/ione/__docusaurus/debug/globalData', 'f48'),
+    path: '/ione/ja/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/ione/ja/blog/authors/all-sebastien-lorber-articles', 'db5'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/metadata',
-    component: ComponentCreator('/ione/__docusaurus/debug/metadata', 'ab7'),
+    path: '/ione/ja/blog/authors/yangshun',
+    component: ComponentCreator('/ione/ja/blog/authors/yangshun', '235'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/registry',
-    component: ComponentCreator('/ione/__docusaurus/debug/registry', 'f3d'),
+    path: '/ione/ja/blog/first-blog-post',
+    component: ComponentCreator('/ione/ja/blog/first-blog-post', '103'),
     exact: true
   },
   {
-    path: '/ione/__docusaurus/debug/routes',
-    component: ComponentCreator('/ione/__docusaurus/debug/routes', '630'),
+    path: '/ione/ja/blog/long-blog-post',
+    component: ComponentCreator('/ione/ja/blog/long-blog-post', '551'),
     exact: true
   },
   {
-    path: '/ione/blog',
-    component: ComponentCreator('/ione/blog', '225'),
+    path: '/ione/ja/blog/mdx-blog-post',
+    component: ComponentCreator('/ione/ja/blog/mdx-blog-post', '9a5'),
     exact: true
   },
   {
-    path: '/ione/blog/archive',
-    component: ComponentCreator('/ione/blog/archive', '95e'),
+    path: '/ione/ja/blog/tags',
+    component: ComponentCreator('/ione/ja/blog/tags', 'f8f'),
     exact: true
   },
   {
-    path: '/ione/blog/authors',
-    component: ComponentCreator('/ione/blog/authors', '9ad'),
+    path: '/ione/ja/blog/tags/docusaurus',
+    component: ComponentCreator('/ione/ja/blog/tags/docusaurus', '361'),
     exact: true
   },
   {
-    path: '/ione/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/ione/blog/authors/all-sebastien-lorber-articles', 'd2e'),
+    path: '/ione/ja/blog/tags/facebook',
+    component: ComponentCreator('/ione/ja/blog/tags/facebook', '9ab'),
     exact: true
   },
   {
-    path: '/ione/blog/authors/yangshun',
-    component: ComponentCreator('/ione/blog/authors/yangshun', '83a'),
+    path: '/ione/ja/blog/tags/hello',
+    component: ComponentCreator('/ione/ja/blog/tags/hello', 'f53'),
     exact: true
   },
   {
-    path: '/ione/blog/first-blog-post',
-    component: ComponentCreator('/ione/blog/first-blog-post', '70f'),
+    path: '/ione/ja/blog/tags/hola',
+    component: ComponentCreator('/ione/ja/blog/tags/hola', 'faf'),
     exact: true
   },
   {
-    path: '/ione/blog/long-blog-post',
-    component: ComponentCreator('/ione/blog/long-blog-post', '44f'),
+    path: '/ione/ja/blog/welcome',
+    component: ComponentCreator('/ione/ja/blog/welcome', 'fde'),
     exact: true
   },
   {
-    path: '/ione/blog/mdx-blog-post',
-    component: ComponentCreator('/ione/blog/mdx-blog-post', '7a0'),
+    path: '/ione/ja/markdown-page',
+    component: ComponentCreator('/ione/ja/markdown-page', '575'),
     exact: true
   },
   {
-    path: '/ione/blog/tags',
-    component: ComponentCreator('/ione/blog/tags', 'dca'),
-    exact: true
-  },
-  {
-    path: '/ione/blog/tags/docusaurus',
-    component: ComponentCreator('/ione/blog/tags/docusaurus', '0b3'),
-    exact: true
-  },
-  {
-    path: '/ione/blog/tags/facebook',
-    component: ComponentCreator('/ione/blog/tags/facebook', '862'),
-    exact: true
-  },
-  {
-    path: '/ione/blog/tags/hello',
-    component: ComponentCreator('/ione/blog/tags/hello', 'acc'),
-    exact: true
-  },
-  {
-    path: '/ione/blog/tags/hola',
-    component: ComponentCreator('/ione/blog/tags/hola', '5c2'),
-    exact: true
-  },
-  {
-    path: '/ione/blog/welcome',
-    component: ComponentCreator('/ione/blog/welcome', '0e4'),
-    exact: true
-  },
-  {
-    path: '/ione/markdown-page',
-    component: ComponentCreator('/ione/markdown-page', '2cf'),
-    exact: true
-  },
-  {
-    path: '/ione/docs',
-    component: ComponentCreator('/ione/docs', '768'),
+    path: '/ione/ja/docs',
+    component: ComponentCreator('/ione/ja/docs', 'e40'),
     routes: [
       {
-        path: '/ione/docs',
-        component: ComponentCreator('/ione/docs', '974'),
+        path: '/ione/ja/docs',
+        component: ComponentCreator('/ione/ja/docs', '429'),
         routes: [
           {
-            path: '/ione/docs',
-            component: ComponentCreator('/ione/docs', '00f'),
+            path: '/ione/ja/docs',
+            component: ComponentCreator('/ione/ja/docs', '5bf'),
             routes: [
               {
-                path: '/ione/docs/Backup & View/',
-                component: ComponentCreator('/ione/docs/Backup & View/', 'bd0'),
+                path: '/ione/ja/docs/Backup & View/',
+                component: ComponentCreator('/ione/ja/docs/Backup & View/', '08e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/category/products',
-                component: ComponentCreator('/ione/docs/category/products', '0a4'),
+                path: '/ione/ja/docs/category/products',
+                component: ComponentCreator('/ione/ja/docs/category/products', 'fe9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/intro/',
-                component: ComponentCreator('/ione/docs/intro/', '741'),
+                path: '/ione/ja/docs/intro/',
+                component: ComponentCreator('/ione/ja/docs/intro/', '012'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Overview/',
-                component: ComponentCreator('/ione/docs/Overview/', '097'),
+                path: '/ione/ja/docs/Overview/',
+                component: ComponentCreator('/ione/ja/docs/Overview/', 'a95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/',
-                component: ComponentCreator('/ione/docs/Raphaview/', '0bb'),
+                path: '/ione/ja/docs/Raphaview/',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/', '097'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Glossary/DICOMImport',
-                component: ComponentCreator('/ione/docs/Raphaview/Glossary/DICOMImport', 'a20'),
+                path: '/ione/ja/docs/Raphaview/Glossary/DICOMImport',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Glossary/DICOMImport', '3d0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/guidelines',
-                component: ComponentCreator('/ione/docs/Raphaview/guidelines', '725'),
+                path: '/ione/ja/docs/Raphaview/guidelines',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/guidelines', 'ce7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/', 'e35'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/', 'b1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/Annotation and Measurement',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/Annotation and Measurement', '660'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/Annotation and Measurement',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Annotation and Measurement', '2b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/Comparing Studies',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/Comparing Studies', '9a8'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/Comparing Studies',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Comparing Studies', '5f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/DICOMExport',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/DICOMExport', '585'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/DICOMExport',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/DICOMExport', '730'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/display',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/display', '64f'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/display',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/display', 'b98'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/ImageOrientationandManipulation',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/ImageOrientationandManipulation', '863'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation', '8b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/Overall GUI',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/Overall GUI', '74d'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/Overall GUI',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Overall GUI', '5c5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Raphaview/Tutorials/Viewers_tools',
-                component: ComponentCreator('/ione/docs/Raphaview/Tutorials/Viewers_tools', '35b'),
+                path: '/ione/ja/docs/Raphaview/Tutorials/Viewers_tools',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Viewers_tools', '21e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/ione/docs/tutorial-basics/create-a-blog-post', 'ed2'),
+                path: '/ione/ja/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/ione/ja/docs/tutorial-basics/create-a-blog-post', '589'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/ione/docs/tutorial-basics/create-a-document', '1fb'),
+                path: '/ione/ja/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/ione/ja/docs/tutorial-basics/create-a-document', 'cd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/ione/docs/tutorial-basics/create-a-page', '933'),
+                path: '/ione/ja/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/ione/ja/docs/tutorial-basics/create-a-page', 'feb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/ione/docs/tutorial-basics/deploy-your-site', 'f46'),
+                path: '/ione/ja/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/ione/ja/docs/tutorial-basics/deploy-your-site', 'aa7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -245,8 +210,8 @@ export default [
     ]
   },
   {
-    path: '/ione/',
-    component: ComponentCreator('/ione/', '4f0'),
+    path: '/ione/ja/',
+    component: ComponentCreator('/ione/ja/', '08d'),
     exact: true
   },
   {

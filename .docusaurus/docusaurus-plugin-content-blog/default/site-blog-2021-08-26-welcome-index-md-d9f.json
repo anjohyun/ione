@@ -1,5 +1,5 @@
 {
-  "permalink": "/ione/blog/welcome",
+  "permalink": "/ione/ja/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
@@ -9,19 +9,19 @@
     {
       "inline": false,
       "label": "Facebook",
-      "permalink": "/ione/blog/tags/facebook",
+      "permalink": "/ione/ja/blog/tags/facebook",
       "description": "Facebook tag description"
     },
     {
       "inline": false,
       "label": "Hello",
-      "permalink": "/ione/blog/tags/hello",
+      "permalink": "/ione/ja/blog/tags/hello",
       "description": "Hello tag description"
     },
     {
       "inline": false,
       "label": "Docusaurus",
-      "permalink": "/ione/blog/tags/docusaurus",
+      "permalink": "/ione/ja/blog/tags/docusaurus",
       "description": "Docusaurus tag description"
     }
   ],
@@ -33,7 +33,7 @@
       "title": "Docusaurus maintainer",
       "url": "https://sebastienlorber.com",
       "page": {
-        "permalink": "/ione/blog/authors/all-sebastien-lorber-articles"
+        "permalink": "/ione/ja/blog/authors/all-sebastien-lorber-articles"
       },
       "socials": {
         "x": "https://x.com/sebastienlorber",
@@ -49,7 +49,7 @@
       "title": "Front End Engineer @ Facebook",
       "url": "https://github.com/yangshun",
       "page": {
-        "permalink": "/ione/blog/authors/yangshun"
+        "permalink": "/ione/ja/blog/authors/yangshun"
       },
       "socials": {
         "x": "https://x.com/yangshunz",
@@ -75,6 +75,6 @@
   "unlisted": false,
   "nextItem": {
     "title": "MDX Blog Post",
-    "permalink": "/ione/blog/mdx-blog-post"
+    "permalink": "/ione/ja/blog/mdx-blog-post"
   }
 }

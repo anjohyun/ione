@@ -1,11 +1,11 @@
 {
   "id": "Backup & View/index",
   "title": "Backup & View",
-  "description": "DICOM station",
+  "description": "Backup and View는 의료영상(DICOM) 및 관련 데이터를 안전하게 백업하고 효율적으로 관리하는 통합 솔루션입니다. 자동화된 백업 시스템과 강력한 데이터 관리 기능을 통해 의료기관의 영상 데이터를 안정적으로 보존하고, 필요 시 빠르게 조회 및 복원할 수 있도록 지원합니다.",
   "source": "@site/docs/3_Backup & View/index.md",
   "sourceDirName": "3_Backup & View",
   "slug": "/Backup & View/",
-  "permalink": "/ionedocs-site/ja/docs/Backup & View/",
+  "permalink": "/ione/ja/docs/Backup & View/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3_Backup & View/index.md",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "DICOM Import",
-    "permalink": "/ionedocs-site/ja/docs/Raphaview/Glossary/DICOMImport"
+    "permalink": "/ione/ja/docs/Raphaview/Glossary/DICOMImport"
   },
   "next": {
-    "title": "Create Groups",
-    "permalink": "/ionedocs-site/ja/docs/Backup & View/Backup Setting/Create Groups"
+    "title": "Best Image",
+    "permalink": "/ione/ja/docs/intro/"
   }
 }
