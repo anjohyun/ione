@@ -14,11 +14,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "FAQ & Troubleshooting",
-    "permalink": "/ione/docs/FAQ/intro"
-  },
-  "next": {
-    "title": "index",
-    "permalink": "/ione/docs/test_image/"
+    "title": "Image Worklist",
+    "permalink": "/ione/docs/ImageWorklist/"
   }
 }

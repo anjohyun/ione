@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Manage Attachments",
-    "permalink": "/ione/docs/Backup & View/Backup Data Management/Manage Attachments"
+    "title": "Backup & View",
+    "permalink": "/ione/docs/Backup & View/"
   },
   "next": {
-    "title": "Admin Settings",
-    "permalink": "/ione/docs/Admin Settings/"
+    "title": "Best Image",
+    "permalink": "/ione/docs/intro/"
   }
 }

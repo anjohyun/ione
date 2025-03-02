@@ -114,22 +114,16 @@ export default [
   },
   {
     path: '/ione/docs',
-    component: ComponentCreator('/ione/docs', 'f20'),
+    component: ComponentCreator('/ione/docs', '4c5'),
     routes: [
       {
         path: '/ione/docs',
-        component: ComponentCreator('/ione/docs', 'dd8'),
+        component: ComponentCreator('/ione/docs', '3be'),
         routes: [
           {
             path: '/ione/docs',
-            component: ComponentCreator('/ione/docs', '287'),
+            component: ComponentCreator('/ione/docs', 'b23'),
             routes: [
-              {
-                path: '/ione/docs/Admin Settings/',
-                component: ComponentCreator('/ione/docs/Admin Settings/', '1b5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/ione/docs/Backup & View/',
                 component: ComponentCreator('/ione/docs/Backup & View/', 'bd0'),
@@ -137,86 +131,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ione/docs/Backup & View/Backup Data Management/Backup Monitoring',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Backup Monitoring', '13e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/Delete DICOM',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Delete DICOM', 'cec'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/DICOM Display Settings',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/DICOM Display Settings', 'd8f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/Download DICOM',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Download DICOM', 'da0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/Manage Attachments',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Manage Attachments', '0b3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/Search DICOM',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Search DICOM', 'fd5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/Upload DICOM',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/Upload DICOM', '444'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Data Management/View DICOM',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Data Management/View DICOM', 'd90'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices', '8c2'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent', 'e41'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Setting/Create Groups',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Setting/Create Groups', '287'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/Backup & View/Backup Setting/Migration',
-                component: ComponentCreator('/ione/docs/Backup & View/Backup Setting/Migration', 'd48'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/ione/docs/category/products',
                 component: ComponentCreator('/ione/docs/category/products', '0a4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/FAQ/intro',
-                component: ComponentCreator('/ione/docs/FAQ/intro', '1fc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -234,7 +150,7 @@ export default [
               },
               {
                 path: '/ione/docs/intro/',
-                component: ComponentCreator('/ione/docs/intro/', '90e'),
+                component: ComponentCreator('/ione/docs/intro/', '741'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -307,12 +223,6 @@ export default [
               {
                 path: '/ione/docs/Raphaview/Tutorials/Viewers_tools',
                 component: ComponentCreator('/ione/docs/Raphaview/Tutorials/Viewers_tools', '35b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/test_image/',
-                component: ComponentCreator('/ione/docs/test_image/', 'f95'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

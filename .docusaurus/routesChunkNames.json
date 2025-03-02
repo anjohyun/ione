@@ -2,64 +2,64 @@
   "/ione/__docusaurus/debug-8cb": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/__docusaurus/debug/config-2af": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/__docusaurus/debug/content-598": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     },
     "__props": "__props---ione-docusaurus-debug-contenta-65-41c"
   },
   "/ione/__docusaurus/debug/globalData-f48": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/__docusaurus/debug/metadata-ab7": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/__docusaurus/debug/registry-f3d": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/__docusaurus/debug/routes-630": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "plugin---ione-docusaurus-debugb-38-864"
     }
   },
   "/ione/blog-225": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---ione-blogf-4-f-505"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ione-blog-871-903"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ione-blog-925-4e9"
       }
     ],
     "__props": "__props---ione-bloge-96-700"
@@ -67,7 +67,7 @@
   "/ione/blog/archive-95e": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
     "__props": "__props---ione-blog-archive-473-ed9"
   },
@@ -75,116 +75,116 @@
     "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "__props": "__props---ione-blog-authors-8-d-5-71e"
   },
   "/ione/blog/authors/all-sebastien-lorber-articles-d2e": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---ione-blogf-4-f-505"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ione-blog-925-4e9"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "__props": "__props---ione-blog-authors-all-sebastien-lorber-articlesc-16-023"
   },
   "/ione/blog/authors/yangshun-83a": {
     "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ione-blog-871-903"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ione-blog-925-4e9"
       }
     ],
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "__props": "__props---ione-blog-authors-yangshund-37-a3c"
   },
   "/ione/blog/first-blog-post-70f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-first-blog-poste-27-4a1"
+    "sidebar": "sidebar---ione-blog-814-21b",
+    "content": "content---ione-blog-first-blog-poste-27-3d4"
   },
   "/ione/blog/long-blog-post-44f": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "sidebar": "sidebar---ione-blog-814-21b",
+    "content": "content---ione-blog-long-blog-post-736-cec"
   },
   "/ione/blog/mdx-blog-post-7a0": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-mdx-blog-post-593-37b"
+    "sidebar": "sidebar---ione-blog-814-21b",
+    "content": "content---ione-blog-mdx-blog-post-593-461"
   },
   "/ione/blog/tags-dca": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "__props": "__props---ione-blog-tagsfa-4-ec3"
   },
   "/ione/blog/tags/docusaurus-0b3": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       },
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---ione-blogf-4-f-505"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ione-blog-871-903"
       },
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ione-blog-925-4e9"
       }
     ],
     "__props": "__props---ione-blog-tags-docusaurus-768-088"
@@ -192,12 +192,12 @@
   "/ione/blog/tags/facebook-862": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       }
     ],
     "__props": "__props---ione-blog-tags-facebookfeb-eeb"
@@ -205,15 +205,15 @@
   "/ione/blog/tags/hello-acc": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---ione-blog-766-cb6"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---ione-blog-871-903"
       }
     ],
     "__props": "__props---ione-blog-tags-hello-926-722"
@@ -221,12 +221,12 @@
   "/ione/blog/tags/hola-5c2": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
+    "sidebar": "sidebar---ione-blog-814-21b",
     "items": [
       {
-        "content": "content---blog-925-e00"
+        "content": "content---ione-blog-925-4e9"
       }
     ],
     "__props": "__props---ione-blog-tags-hola-19-d-0f3"
@@ -235,182 +235,122 @@
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "data": {
-        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+        "blogMetadata": "blogMetadata---ione-blog-authorsace-ae0"
       },
-      "plugin": "plugin---blog-369-22e"
+      "plugin": "plugin---ione-blog-369-5fc"
     },
-    "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-welcomed-9-f-ffb"
+    "sidebar": "sidebar---ione-blog-814-21b",
+    "content": "content---ione-blog-welcomed-9-f-993"
   },
   "/ione/markdown-page-2cf": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---ione-markdown-pagea-74-953"
     },
-    "content": "content---markdown-pagee-3-d-62a"
+    "content": "content---ione-markdown-pagee-3-d-022"
   },
-  "/ione/docs-f20": {
+  "/ione/docs-4c5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "plugin---ione-docsaba-ae5"
     }
   },
-  "/ione/docs-dd8": {
+  "/ione/docs-3be": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---ione-docs-7-fe-a2f"
   },
-  "/ione/docs-287": {
+  "/ione/docs-b23": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/ione/docs/Admin Settings/-1b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-admin-settings-00-d-a1c"
   },
   "/ione/docs/Backup & View/-bd0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-a-9-b-25c"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Backup Monitoring-13e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-backup-monitoringa-01-b17"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Delete DICOM-cec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-delete-dicom-033-d06"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/DICOM Display Settings-d8f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-dicom-display-settings-183-f22"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Download DICOM-da0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-download-dicom-40-b-dfc"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Manage Attachments-0b3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-manage-attachments-0-bc-253"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Search DICOM-fd5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-search-dico-meb-6-0b9"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/Upload DICOM-444": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-upload-dico-mfde-c15"
-  },
-  "/ione/docs/Backup & View/Backup Data Management/View DICOM-d90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-data-management-view-dicom-336-ff8"
-  },
-  "/ione/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices-8c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-setting-backup-automation-from-autotrans-devices-904-840"
-  },
-  "/ione/docs/Backup & View/Backup Setting/Backup Automation/with_IRM_agent-e41": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-setting-backup-automation-with-irm-agentb-5-a-00b"
-  },
-  "/ione/docs/Backup & View/Backup Setting/Create Groups-287": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-setting-create-groups-1-c-4-6d6"
-  },
-  "/ione/docs/Backup & View/Backup Setting/Migration-d48": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-backup-view-backup-setting-migrationc-3-b-91c"
+    "content": "content---ione-docs-backup-view-a-9-b-e35"
   },
   "/ione/docs/category/products-0a4": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---ione-docs-category-products-376-a00"
   },
-  "/ione/docs/FAQ/intro-1fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-faq-introfac-3f1"
-  },
   "/ione/docs/ImageWorklist/-2f0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-image-worklist-0-d-9-cbe"
+    "content": "content---ione-docs-image-worklist-0-d-9-326"
   },
   "/ione/docs/ImageWorklist/-634": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-image-worklist-f-91-aa5"
+    "content": "content---ione-docs-image-worklist-f-91-895"
   },
-  "/ione/docs/intro/-90e": {
+  "/ione/docs/intro/-741": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-bfd-0f3"
+    "content": "content---ione-docs-intro-0-d-8-c21"
   },
   "/ione/docs/Overview/-097": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-overview-b-10-dc7"
+    "content": "content---ione-docs-overview-b-10-54d"
   },
   "/ione/docs/Raphaview/-0bb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-75-e-f52"
+    "content": "content---ione-docs-raphaview-75-e-ab5"
   },
   "/ione/docs/Raphaview/Glossary/DICOMImport-a20": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-glossary-dicom-import-292-7aa"
+    "content": "content---ione-docs-raphaview-glossary-dicom-import-292-c3c"
   },
   "/ione/docs/Raphaview/guidelines-725": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-guidelinesc-6-c-fdb"
+    "content": "content---ione-docs-raphaview-guidelinesc-6-c-c0a"
   },
   "/ione/docs/Raphaview/Tutorials/-e35": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-bde-f91"
+    "content": "content---ione-docs-raphaview-tutorials-bde-762"
   },
   "/ione/docs/Raphaview/Tutorials/Annotation and Measurement-660": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-annotation-and-measurementf-95-f75"
+    "content": "content---ione-docs-raphaview-tutorials-annotation-and-measurementf-95-cf6"
   },
   "/ione/docs/Raphaview/Tutorials/Comparing Studies-9a8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-comparing-studies-2-b-3-218"
+    "content": "content---ione-docs-raphaview-tutorials-comparing-studies-2-b-3-370"
   },
   "/ione/docs/Raphaview/Tutorials/DICOMExport-585": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-dicom-export-1-e-8-b41"
+    "content": "content---ione-docs-raphaview-tutorials-dicom-export-1-e-8-539"
   },
   "/ione/docs/Raphaview/Tutorials/display-64f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-display-413-c35"
+    "content": "content---ione-docs-raphaview-tutorials-display-413-5ec"
   },
   "/ione/docs/Raphaview/Tutorials/ImageOrientationandManipulation-863": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-image-orientationand-manipulationddf-426"
+    "content": "content---ione-docs-raphaview-tutorials-image-orientationand-manipulationddf-6e0"
   },
   "/ione/docs/Raphaview/Tutorials/Overall GUI-74d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-overall-gu-iee-8-0df"
+    "content": "content---ione-docs-raphaview-tutorials-overall-gu-iee-8-673"
   },
   "/ione/docs/Raphaview/Tutorials/Viewers_tools-35b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-raphaview-tutorials-viewers-toolsb-2-b-f47"
-  },
-  "/ione/docs/test_image/-f95": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-test-image-c-34-b59"
+    "content": "content---ione-docs-raphaview-tutorials-viewers-toolsb-2-b-eab"
   },
   "/ione/docs/tutorial-basics/create-a-blog-post-ed2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-postd-4-b-3ab"
+    "content": "content---ione-docs-tutorial-basics-create-a-blog-postd-4-b-394"
   },
   "/ione/docs/tutorial-basics/create-a-document-1fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-25-c-e23"
+    "content": "content---ione-docs-tutorial-basics-create-a-document-25-c-e21"
   },
   "/ione/docs/tutorial-basics/create-a-page-933": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-cd-a4c"
+    "content": "content---ione-docs-tutorial-basics-create-a-page-5-cd-9cb"
   },
   "/ione/docs/tutorial-basics/deploy-your-site-f46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-site-956-371"
+    "content": "content---ione-docs-tutorial-basics-deploy-your-site-956-ce3"
   },
   "/ione/-4f0": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "plugin---ione-markdown-pagea-74-953"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "config---ione-5-e-9-2e5"
   }
 }

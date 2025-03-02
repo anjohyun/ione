@@ -15,11 +15,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "1. Set backup from automatic transmission devices",
-    "permalink": "/ione/docs/Backup & View/Backup Setting/Backup Automation/from_autotrans_devices"
+    "title": "Create Groups",
+    "permalink": "/ione/docs/Backup & View/Backup Setting/Create Groups"
   },
   "next": {
-    "title": "Backup Monitoring",
-    "permalink": "/ione/docs/Backup & View/Backup Data Management/Backup Monitoring"
+    "title": "Image Worklist",
+    "permalink": "/ione/docs/ImageWorklist/"
   }
 }

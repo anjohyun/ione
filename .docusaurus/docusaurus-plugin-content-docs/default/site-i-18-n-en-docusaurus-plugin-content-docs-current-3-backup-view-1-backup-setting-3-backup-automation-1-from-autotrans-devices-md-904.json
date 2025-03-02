@@ -15,8 +15,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Migration",
-    "permalink": "/ione/docs/Backup & View/Backup Setting/Migration"
+    "title": "Create Groups",
+    "permalink": "/ione/docs/Backup & View/Backup Setting/Create Groups"
   },
   "next": {
     "title": "2. Set backup with IRM agent",
