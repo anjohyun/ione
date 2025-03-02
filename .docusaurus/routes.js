@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/ione/docs',
-    component: ComponentCreator('/ione/docs', '4c5'),
+    component: ComponentCreator('/ione/docs', '768'),
     routes: [
       {
         path: '/ione/docs',
-        component: ComponentCreator('/ione/docs', '3be'),
+        component: ComponentCreator('/ione/docs', '974'),
         routes: [
           {
             path: '/ione/docs',
-            component: ComponentCreator('/ione/docs', 'b23'),
+            component: ComponentCreator('/ione/docs', '00f'),
             routes: [
               {
                 path: '/ione/docs/Backup & View/',
@@ -133,18 +133,6 @@ export default [
               {
                 path: '/ione/docs/category/products',
                 component: ComponentCreator('/ione/docs/category/products', '0a4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/ImageWorklist/',
-                component: ComponentCreator('/ione/docs/ImageWorklist/', '2f0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/docs/ImageWorklist/',
-                component: ComponentCreator('/ione/docs/ImageWorklist/', '634'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
