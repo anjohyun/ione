@@ -1,0 +1,28 @@
+{
+  "id": "Raphaview/Tutorials/DICOMImport",
+  "title": "DICOM Import",
+  "description": "I-one Raphaview는 다양한 방법과 소스에서 DICOM 파일을 열 수 있습니다: 드래그 앤 드롭, 로컬 장치, DICOM ZIP, DICOM CD/DVD, DICOM 쿼리/검색, 로컬 또는 원격 명령을 통한 파일 열기.",
+  "source": "@site/docs/1_Raphaview/2_Tutorials/1_DICOMImport.md",
+  "sourceDirName": "1_Raphaview/2_Tutorials",
+  "slug": "/Raphaview/Tutorials/DICOMImport",
+  "permalink": "/ione/docs/Raphaview/Tutorials/DICOMImport",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/2_Tutorials/1_DICOMImport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "order": 50,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials",
+    "permalink": "/ione/docs/Raphaview/Tutorials/"
+  },
+  "next": {
+    "title": "Display Overview",
+    "permalink": "/ione/docs/Raphaview/Tutorials/Overall GUI"
+  }
+}

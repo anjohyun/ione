@@ -1,0 +1,27 @@
+{
+  "id": "Raphaview/Tutorials/index",
+  "title": "Tutorials",
+  "description": "I-Rapha View™ provides tools for visualizing and analyzing obtained images for medical professionals and researchers.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/2_Tutorials/index.md",
+  "sourceDirName": "1_Raphaview/2_Tutorials",
+  "slug": "/Raphaview/Tutorials/",
+  "permalink": "/ione/docs/Raphaview/Tutorials/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/2_Tutorials/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 700,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "I-Rapha View™",
+    "permalink": "/ione/docs/Raphaview/"
+  },
+  "next": {
+    "title": "Display Overview",
+    "permalink": "/ione/docs/Raphaview/Tutorials/Overall GUI"
+  }
+}

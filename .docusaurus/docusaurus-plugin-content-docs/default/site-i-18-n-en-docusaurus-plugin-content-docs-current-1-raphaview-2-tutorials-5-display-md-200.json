@@ -1,0 +1,25 @@
+{
+  "id": "Raphaview/Tutorials/display",
+  "title": "Layout and Display Settings",
+  "description": "Layout Overview",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/2_Tutorials/5_display.md",
+  "sourceDirName": "1_Raphaview/2_Tutorials",
+  "slug": "/Raphaview/Tutorials/display",
+  "permalink": "/ione/docs/Raphaview/Tutorials/display",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/2_Tutorials/5_display.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Annotation and Measurement",
+    "permalink": "/ione/docs/Raphaview/Tutorials/Annotation and Measurement"
+  },
+  "next": {
+    "title": "Comparing Studies",
+    "permalink": "/ione/docs/Raphaview/Tutorials/Comparing Studies"
+  }
+}

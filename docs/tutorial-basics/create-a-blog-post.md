@@ -5,7 +5,6 @@ sidebar_position: 3
 
 # DICOM Viewer: I-Rapha View™
 
-![](../1_Raphaview/5_Tutorials/img/iraphalogo.png)
 
 I-Rapha View™는 의료영상 전송장치에서 전송된 DICOM 형태의 영상을 웹 표준방식(HTML5)을 이용하여 조회를 할 수 있게 해 주는 DICOM 뷰어 소프트웨어입니다.
 

@@ -79,22 +79,16 @@ export default [
   },
   {
     path: '/ione/ja/docs',
-    component: ComponentCreator('/ione/ja/docs', 'e40'),
+    component: ComponentCreator('/ione/ja/docs', 'dd8'),
     routes: [
       {
         path: '/ione/ja/docs',
-        component: ComponentCreator('/ione/ja/docs', '429'),
+        component: ComponentCreator('/ione/ja/docs', '830'),
         routes: [
           {
             path: '/ione/ja/docs',
-            component: ComponentCreator('/ione/ja/docs', '5bf'),
+            component: ComponentCreator('/ione/ja/docs', 'c8e'),
             routes: [
-              {
-                path: '/ione/ja/docs/Backup & View/',
-                component: ComponentCreator('/ione/ja/docs/Backup & View/', '08e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/ione/ja/docs/category/products',
                 component: ComponentCreator('/ione/ja/docs/category/products', 'fe9'),
@@ -115,67 +109,61 @@ export default [
               },
               {
                 path: '/ione/ja/docs/Raphaview/',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/', '097'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/ja/docs/Raphaview/Glossary/DICOMImport',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Glossary/DICOMImport', '3d0'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/ione/ja/docs/Raphaview/guidelines',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/guidelines', 'ce7'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/', 'e4a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/', 'b1c'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/', 'c67'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/Annotation and Measurement',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Annotation and Measurement', '2b9'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Annotation and Measurement', 'ce5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/Comparing Studies',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Comparing Studies', '5f4'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Comparing Studies', 'cf4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/DICOMExport',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/DICOMExport', '730'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/DICOMExport', '785'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/display',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/display', 'b98'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/display', 'f74'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation', '8b5'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation', '233'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/ione/ja/docs/Raphaview/Tutorials/in',
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/in', 'b57'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/Overall GUI',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Overall GUI', '5c5'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Overall GUI', '7ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/ione/ja/docs/Raphaview/Tutorials/Viewers_tools',
-                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Viewers_tools', '21e'),
+                component: ComponentCreator('/ione/ja/docs/Raphaview/Tutorials/Viewers_tools', '294'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

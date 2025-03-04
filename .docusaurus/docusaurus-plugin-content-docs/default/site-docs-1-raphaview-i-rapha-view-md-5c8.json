@@ -1,0 +1,27 @@
+{
+  "id": "Raphaview/I-Rapha View",
+  "title": "I-Rapha View",
+  "description": "I-Rapha View™",
+  "source": "@site/docs/1_Raphaview/I-Rapha View.md",
+  "sourceDirName": "1_Raphaview",
+  "slug": "/Raphaview/I-Rapha View",
+  "permalink": "/ione/docs/Raphaview/I-Rapha View",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/I-Rapha View.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "order": 790,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DICOM Import",
+    "permalink": "/ione/docs/Raphaview/Glossary/DICOMImport"
+  },
+  "next": {
+    "title": "Backup & View",
+    "permalink": "/ione/docs/Backup & View/"
+  }
+}

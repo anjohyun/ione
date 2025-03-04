@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Comparing Studies",
-    "permalink": "/ione/docs/Raphaview/Tutorials/Comparing Studies"
+    "title": "DICOM Import",
+    "permalink": "/ione/docs/Raphaview/Tutorials/in"
   },
   "next": {
-    "title": "Backup & View",
-    "permalink": "/ione/docs/Backup & View/"
+    "title": "Best Image",
+    "permalink": "/ione/docs/intro/"
   }
 }

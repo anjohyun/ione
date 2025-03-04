@@ -1,0 +1,28 @@
+{
+  "id": "Raphaview/Tutorials/Comparing Studies",
+  "title": "Comparing Studies",
+  "description": "The current viewer displays information about the loaded studies, with one study tab created for each study. The study tab for the currently displayed study has a turquoise background, while study tabs for studies that are loaded but not displayed appear in gray.",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/1_Raphaview/2_Tutorials/6_Comparing Studies.md",
+  "sourceDirName": "1_Raphaview/2_Tutorials",
+  "slug": "/Raphaview/Tutorials/Comparing Studies",
+  "permalink": "/ione/docs/Raphaview/Tutorials/Comparing Studies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/1_Raphaview/2_Tutorials/6_Comparing Studies.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "order": 45,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Layout and Display Settings",
+    "permalink": "/ione/docs/Raphaview/Tutorials/display"
+  },
+  "next": {
+    "title": "DICOM Import",
+    "permalink": "/ione/docs/Raphaview/Tutorials/in"
+  }
+}

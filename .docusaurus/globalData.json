@@ -11,11 +11,6 @@
           "mainDocId": "Overview/index",
           "docs": [
             {
-              "id": "Backup & View/index",
-              "path": "/ione/ja/docs/Backup & View/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "intro/index",
               "path": "/ione/ja/docs/intro/",
               "sidebar": "tutorialSidebar"
@@ -23,16 +18,6 @@
             {
               "id": "Overview/index",
               "path": "/ione/ja/docs/Overview/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Raphaview/Glossary/DICOMImport",
-              "path": "/ione/ja/docs/Raphaview/Glossary/DICOMImport",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Raphaview/guidelines",
-              "path": "/ione/ja/docs/Raphaview/guidelines",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -63,6 +48,11 @@
             {
               "id": "Raphaview/Tutorials/ImageOrientationandManipulation",
               "path": "/ione/ja/docs/Raphaview/Tutorials/ImageOrientationandManipulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Raphaview/Tutorials/in",
+              "path": "/ione/ja/docs/Raphaview/Tutorials/in",
               "sidebar": "tutorialSidebar"
             },
             {

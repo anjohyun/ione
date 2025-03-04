@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Dedicated DICOM Viewer',
-    Svg: require('@site/static/img/viewer.svg').default,
+    Svg: require('@site/static/img/xray.svg').default,
     description: (
       <>
         A specialized viewer designed for efficient display and analysis of DICOM medical images.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Smart and Safe Patient Management',
-    Svg: require('@site/static/img/emr.svg').default,
+    Svg: require('@site/static/img/patient.svg').default,
     description: (
       <>
         An intelligent system ensuring secure and streamlined management of patient data for enhanced care and safety.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Secure Backup powered by AWS storage',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/backup.svg').default,
     description: (
       <>
         A robust backup solution leveraging AWS storage for secure, scalable, and reliable data protection.

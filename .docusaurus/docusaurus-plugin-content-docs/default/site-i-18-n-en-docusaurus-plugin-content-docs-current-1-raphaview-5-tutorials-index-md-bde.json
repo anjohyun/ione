@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/ione/docs/Raphaview/guidelines"
+    "title": "index",
+    "permalink": "/ione/docs/Raphaview/"
   },
   "next": {
     "title": "Display Overview",

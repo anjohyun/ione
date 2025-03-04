@@ -1,0 +1,28 @@
+{
+  "id": "raphaview/Tutorials/DICOMExport",
+  "title": "DICOM Export",
+  "description": "1. 영상 다운로드를 원하는 스터디의 체크박스를 클릭합니다.",
+  "source": "@site/docs/raphaview/2_Tutorials/2_DICOMExport.md",
+  "sourceDirName": "raphaview/2_Tutorials",
+  "slug": "/raphaview/Tutorials/DICOMExport",
+  "permalink": "/ione/docs/raphaview/Tutorials/DICOMExport",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/raphaview/2_Tutorials/2_DICOMExport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "order": 49,
+    "expanded": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Display Overview",
+    "permalink": "/ione/docs/raphaview/Tutorials/Overall GUI"
+  },
+  "next": {
+    "title": "Image Orientation and Manipulation",
+    "permalink": "/ione/docs/raphaview/Tutorials/ImageOrientationandManipulation"
+  }
+}
